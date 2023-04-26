@@ -1,0 +1,1288 @@
+creditor_id,loan_type,date,due_date,interest,interest_type,tenure,days_past_due
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Financing Company,2018-05-10,2019-04-27,2.95,Fixed Interest Rates,352,0
+5777f684-ad49-4618-886a-821ae417b032,Financing Company,2018-04-18,2018-10-07,2.95,Fixed Interest Rates,172,0
+9a4f17e6-18f5-4eee-9255-ecd8b63a3781,Conventional Commercial Bank,2015-07-30,2017-07-30,3.67,Fixed Interest Rates,731,0
+9a4f17e6-18f5-4eee-9255-ecd8b63a3781,Conventional Commercial Bank,2017-07-02,2018-07-02,3.19,Fixed Interest Rates,365,0
+54322a82-5179-4c6f-848b-aa3fe9efd727,Conventional Commercial Bank,2013-12-21,2016-12-21,12.0,Fixed Interest Rates,1096,0
+54322a82-5179-4c6f-848b-aa3fe9efd727,Conventional Commercial Bank,2013-12-30,2017-04-27,13.0,Fixed Interest Rates,1214,91
+54322a82-5179-4c6f-848b-aa3fe9efd727,Conventional Commercial Bank,2015-07-23,2019-07-23,15.5,Floating Interest Rates,1461,0
+54322a82-5179-4c6f-848b-aa3fe9efd727,Conventional Commercial Bank,2017-03-10,2019-03-09,9.5,Floating Interest Rates,729,0
+54322a82-5179-4c6f-848b-aa3fe9efd727,Conventional Commercial Bank,2017-11-18,2020-11-18,10.0,Floating Interest Rates,1096,0
+839f4083-a3a6-4a6d-81db-c79af3691ff6,Conventional Commercial Bank,2017-12-17,2023-01-01,21.0,Fixed Interest Rates,1841,0
+450b2c45-ab13-4e1a-97e4-16a499a01fef,Conventional Commercial Bank,2016-07-14,2017-07-14,3.19,Fixed Interest Rates,365,0
+09e77d10-1118-4a92-9008-98c6bd8b7187,Conventional Commercial Bank,2014-10-18,2015-10-18,3.71,Fixed Interest Rates,365,0
+09e77d10-1118-4a92-9008-98c6bd8b7187,Conventional Commercial Bank,2015-12-13,2016-06-13,15.0,Fixed Interest Rates,183,0
+09e77d10-1118-4a92-9008-98c6bd8b7187,Conventional Commercial Bank,2016-07-30,2017-07-30,3.19,Fixed Interest Rates,365,0
+09e77d10-1118-4a92-9008-98c6bd8b7187,Conventional Commercial Bank,2017-08-19,2018-08-19,3.19,Fixed Interest Rates,365,0
+09e77d10-1118-4a92-9008-98c6bd8b7187,Conventional Commercial Bank,2018-11-16,2019-08-16,6.0,Floating Interest Rates,273,0
+450b2c45-ab13-4e1a-97e4-16a499a01fef,Conventional Commercial Bank,2015-07-18,2016-07-18,3.71,Fixed Interest Rates,366,0
+450b2c45-ab13-4e1a-97e4-16a499a01fef,Financing Company,2018-12-09,2022-12-09,8.8,Fixed Interest Rates,1461,0
+bcc0e3bd-ee77-43ed-8cf0-8fe411c16554,Financing Company,2015-02-21,2015-08-21,32.28,Fixed Interest Rates,181,0
+bcc0e3bd-ee77-43ed-8cf0-8fe411c16554,Conventional Commercial Bank,2015-02-23,2015-08-21,32.75,Fixed Interest Rates,179,0
+bcc0e3bd-ee77-43ed-8cf0-8fe411c16554,Conventional Commercial Bank,2016-11-28,2019-11-28,6.0,Floating Interest Rates,1095,0
+56b668df-62cd-48ec-b964-9190e8413f48,Financing Company,2013-06-25,2015-12-25,28.22,Fixed Interest Rates,913,8
+56b668df-62cd-48ec-b964-9190e8413f48,Conventional Commercial Bank,2014-05-12,2018-05-12,10.8,Fixed Interest Rates,1461,0
+56b668df-62cd-48ec-b964-9190e8413f48,Financing Company,2016-01-29,2017-07-29,40.16,Fixed Interest Rates,547,58
+56b668df-62cd-48ec-b964-9190e8413f48,Conventional Commercial Bank,2016-08-29,2020-08-29,11.04,Fixed Interest Rates,1461,0
+474bbb64-d268-4973-ac6d-8e5958cedf0d,Conventional Commercial Bank,2015-08-15,2018-08-15,3.72,Fixed Interest Rates,1096,0
+9be46e46-e3fc-4c8b-a9ff-ed440d749b6e,Financing Company,2018-02-15,2019-02-05,45.92,Fixed Interest Rates,355,0
+43621376-da2b-46f0-9b25-1ce6fbefb89e,Conventional Commercial Bank,2013-04-21,2016-04-21,4.82,Fixed Interest Rates,1096,0
+43621376-da2b-46f0-9b25-1ce6fbefb89e,Conventional Commercial Bank,2016-05-27,2019-05-27,3.17,Fixed Interest Rates,1095,0
+43621376-da2b-46f0-9b25-1ce6fbefb89e,Conventional Commercial Bank,2018-10-13,2021-10-13,6.0,Floating Interest Rates,1096,0
+e580c0c7-3bb2-484f-9c04-993d6c1829ef,Financing Company,2014-05-25,2017-04-06,26.0,Fixed Interest Rates,1047,0
+bcebe365-24d8-40c9-9848-c58545017a7c,Conventional Commercial Bank,2015-12-12,2016-07-12,15.0,Fixed Interest Rates,213,0
+bcebe365-24d8-40c9-9848-c58545017a7c,Conventional Commercial Bank,2016-08-27,2017-08-27,3.19,Fixed Interest Rates,365,0
+bcebe365-24d8-40c9-9848-c58545017a7c,Conventional Commercial Bank,2017-08-10,2018-08-10,3.19,Fixed Interest Rates,365,0
+bcebe365-24d8-40c9-9848-c58545017a7c,Conventional Commercial Bank,2018-10-08,2019-10-08,6.0,Floating Interest Rates,365,0
+72513dad-ca31-4b89-830c-b09790a5e5ac,Financing Company,2014-11-06,2016-05-06,46.31,Fixed Interest Rates,547,0
+72513dad-ca31-4b89-830c-b09790a5e5ac,Conventional Commercial Bank,2016-10-26,2018-10-26,6.0,Floating Interest Rates,730,0
+72513dad-ca31-4b89-830c-b09790a5e5ac,Financing Company,2017-01-22,2019-01-22,50.14,Fixed Interest Rates,730,0
+72513dad-ca31-4b89-830c-b09790a5e5ac,Conventional Commercial Bank,2017-11-17,2018-11-17,6.0,Floating Interest Rates,365,0
+72513dad-ca31-4b89-830c-b09790a5e5ac,Conventional Commercial Bank,2018-09-14,2020-09-14,6.0,Floating Interest Rates,731,0
+178ae8bb-47b4-419f-b7e1-cd1685435d25,Conventional Commercial Bank,2014-07-28,2016-07-28,3.73,Fixed Interest Rates,731,0
+178ae8bb-47b4-419f-b7e1-cd1685435d25,Conventional Commercial Bank,2016-06-11,2019-06-11,6.0,Floating Interest Rates,1095,0
+178ae8bb-47b4-419f-b7e1-cd1685435d25,Financing Company,2016-10-27,2019-10-22,19.97,Fixed Interest Rates,1090,10
+178ae8bb-47b4-419f-b7e1-cd1685435d25,Conventional Commercial Bank,2017-01-27,2019-10-22,11.2,Fixed Interest Rates,998,10
+178ae8bb-47b4-419f-b7e1-cd1685435d25,Conventional Commercial Bank,2018-03-18,2021-03-18,6.0,Floating Interest Rates,1096,0
+bcfff020-5399-4ffc-bd59-940c649c0cff,Conventional Commercial Bank,2017-06-12,2019-12-12,6.0,Floating Interest Rates,913,0
+980bf471-251a-4c5c-835f-ad73f0072809,Conventional Commercial Bank,2017-12-19,2020-12-19,3.13,Fixed Interest Rates,1096,0
+07dda916-42c0-4c7f-b2df-e3bb8a8a8987,Conventional Commercial Bank,2015-07-25,2020-07-26,24.0,Fixed Interest Rates,1828,0
+e125aeda-b20f-4dce-a73d-ac38f5a5815b,Conventional Commercial Bank,2007-11-30,2012-12-01,21.0,Floating Interest Rates,1828,0
+e125aeda-b20f-4dce-a73d-ac38f5a5815b,Conventional Commercial Bank,2012-11-29,2015-12-01,21.0,Fixed Interest Rates,1097,1076
+e125aeda-b20f-4dce-a73d-ac38f5a5815b,Financing Company,2015-06-01,2016-11-04,47.88,Fixed Interest Rates,522,301
+e125aeda-b20f-4dce-a73d-ac38f5a5815b,Financing Company,2012-05-25,2015-05-08,14.9,Margin,1078,115
+3c688917-f524-4ffa-8149-f252565fc594,Financing Company,2014-08-14,2019-07-14,12.0,Margin,1795,0
+3c688917-f524-4ffa-8149-f252565fc594,Financing Company,2013-05-16,2016-05-16,19.94,Fixed Interest Rates,1096,50
+3c688917-f524-4ffa-8149-f252565fc594,Financing Company,2016-02-20,2017-02-20,48.5,Fixed Interest Rates,366,0
+3c688917-f524-4ffa-8149-f252565fc594,Financing Company,2017-08-03,2019-08-03,52.62,Fixed Interest Rates,730,0
+3c688917-f524-4ffa-8149-f252565fc594,Financing Company,2016-12-23,2017-12-23,119.8,Fixed Interest Rates,365,0
+3c688917-f524-4ffa-8149-f252565fc594,Financing Company,2014-06-28,2017-02-28,14.95,Fixed Interest Rates,976,69
+3c688917-f524-4ffa-8149-f252565fc594,Conventional Commercial Bank,2014-08-14,2019-07-14,7.2,Fixed Interest Rates,1795,0
+3c688917-f524-4ffa-8149-f252565fc594,Financing Company,2011-08-21,2015-08-21,18.96,Fixed Interest Rates,1461,0
+f4943af3-a6d0-45b3-9a4e-50a4fd51d693,Financing Company,2018-09-06,2018-10-06,0.0,Fixed Interest Rates,30,27
+f4943af3-a6d0-45b3-9a4e-50a4fd51d693,Financing Company,2018-08-26,2018-09-26,0.17,Fixed Interest Rates,31,5
+f4943af3-a6d0-45b3-9a4e-50a4fd51d693,Financing Company,2018-08-20,2018-09-26,0.14,Fixed Interest Rates,37,5
+f4943af3-a6d0-45b3-9a4e-50a4fd51d693,Financing Company,2018-08-28,2018-09-26,0.22,Fixed Interest Rates,29,5
+f4943af3-a6d0-45b3-9a4e-50a4fd51d693,Conventional Commercial Bank,2018-08-19,2021-08-19,6.0,Floating Interest Rates,1096,0
+f4943af3-a6d0-45b3-9a4e-50a4fd51d693,Financing Company,2018-09-06,2018-10-06,0.0,Fixed Interest Rates,30,0
+f4943af3-a6d0-45b3-9a4e-50a4fd51d693,Conventional Commercial Bank,2016-03-12,2019-03-12,3.17,Fixed Interest Rates,1095,0
+f4943af3-a6d0-45b3-9a4e-50a4fd51d693,Conventional Commercial Bank,2014-08-21,2016-08-21,3.73,Fixed Interest Rates,731,0
+f4943af3-a6d0-45b3-9a4e-50a4fd51d693,Financing Company,2018-08-20,2018-09-26,0.22,Fixed Interest Rates,37,36
+88ce31c8-3440-4be0-980a-f027244a1869,Conventional Commercial Bank,2016-02-07,2020-12-07,6.0,Floating Interest Rates,1765,0
+88ce31c8-3440-4be0-980a-f027244a1869,Conventional Commercial Bank,2014-03-01,2017-03-01,10.9,Fixed Interest Rates,1096,0
+774c2636-fb1e-438f-b692-1077d858f039,Financing Company,2015-07-04,2019-07-04,17.71,Fixed Interest Rates,1461,0
+774c2636-fb1e-438f-b692-1077d858f039,Conventional Commercial Bank,2014-10-26,2019-10-26,15.0,Floating Interest Rates,1826,0
+774c2636-fb1e-438f-b692-1077d858f039,Financing Company,2016-08-11,2020-07-11,15.72,Fixed Interest Rates,1430,22
+774c2636-fb1e-438f-b692-1077d858f039,Conventional Commercial Bank,2016-03-11,2019-07-04,9.45,Fixed Interest Rates,1210,0
+774c2636-fb1e-438f-b692-1077d858f039,Conventional Commercial Bank,2015-05-28,2020-05-26,24.0,Fixed Interest Rates,1825,0
+bdb8fecd-d539-4b69-ba6f-3143e671bad9,Financing Company,2017-10-20,2019-09-16,38.0,Fixed Interest Rates,696,0
+bdb8fecd-d539-4b69-ba6f-3143e671bad9,Conventional Commercial Bank,2013-07-07,2016-07-07,4.82,Fixed Interest Rates,1096,0
+a690a85b-e234-418c-a128-baac2493d682,Conventional Commercial Bank,2013-02-25,2013-12-25,29.08,Fixed Interest Rates,303,150
+a690a85b-e234-418c-a128-baac2493d682,Financing Company,2013-02-25,2013-06-25,21.12,Fixed Interest Rates,120,1775
+a690a85b-e234-418c-a128-baac2493d682,Conventional Commercial Bank,2013-02-25,2013-12-25,29.08,Fixed Interest Rates,303,150
+1add86d4-f953-40d5-a7da-63d0aeb77130,Conventional Commercial Bank,2018-10-29,2021-10-26,6.0,Floating Interest Rates,1093,0
+f89a6d1d-e319-41e2-b891-5361c719acdd,Conventional Commercial Bank,2018-07-14,2021-07-14,11.04,Fixed Interest Rates,1096,0
+f89a6d1d-e319-41e2-b891-5361c719acdd,Conventional Commercial Bank,2018-01-14,2019-01-14,6.0,Floating Interest Rates,365,0
+f89a6d1d-e319-41e2-b891-5361c719acdd,Conventional Commercial Bank,2016-10-10,2018-10-10,6.0,Floating Interest Rates,730,0
+09f81bd9-5c9b-4c74-b5b9-1895b9161823,Conventional Commercial Bank,2018-07-30,2020-07-30,19.0,Floating Interest Rates,731,0
+09f81bd9-5c9b-4c74-b5b9-1895b9161823,Conventional Commercial Bank,2017-05-20,2020-05-20,22.0,Floating Interest Rates,1096,0
+09f81bd9-5c9b-4c74-b5b9-1895b9161823,Conventional Commercial Bank,2014-05-04,2017-05-04,14.4,Fixed Interest Rates,1096,0
+9c7e55c5-b058-442e-a5f2-aab286428d50,Conventional Commercial Bank,2017-03-31,2020-03-31,19.75,Floating Interest Rates,1096,0
+9c7e55c5-b058-442e-a5f2-aab286428d50,Conventional Commercial Bank,2014-11-30,2017-11-30,11.4,Fixed Interest Rates,1096,0
+9c7e55c5-b058-442e-a5f2-aab286428d50,Conventional Commercial Bank,2014-11-30,2017-11-30,11.4,Fixed Interest Rates,1096,0
+5c98b383-0639-41fd-af46-124ae3df2e07,Conventional Commercial Bank,2018-03-23,2019-03-23,6.0,Floating Interest Rates,365,0
+62649d43-378e-4c57-a7c7-86a6bcf87562,Conventional Commercial Bank,2017-11-05,2020-11-05,6.0,Floating Interest Rates,1096,0
+75427c98-c45a-4f54-a22b-b75a8857f96e,Conventional Commercial Bank,2018-05-14,2023-05-14,19.75,Floating Interest Rates,1826,0
+75427c98-c45a-4f54-a22b-b75a8857f96e,Conventional Commercial Bank,2015-09-18,2017-09-18,3.73,Fixed Interest Rates,731,0
+75427c98-c45a-4f54-a22b-b75a8857f96e,Conventional Commercial Bank,2013-07-14,2015-07-14,4.82,Fixed Interest Rates,730,49
+c9c0b520-9a2c-4dc7-8b74-d2f36586d87d,Conventional Commercial Bank,2015-01-25,2030-01-25,5.23,Margin,5479,129
+927dd1b9-54d2-42d2-b63b-0a29a3a42edb,Conventional Commercial Bank,2018-07-29,2019-07-29,6.0,Floating Interest Rates,365,0
+927dd1b9-54d2-42d2-b63b-0a29a3a42edb,Conventional Commercial Bank,2017-07-15,2018-07-15,3.19,Fixed Interest Rates,365,0
+927dd1b9-54d2-42d2-b63b-0a29a3a42edb,Conventional Commercial Bank,2016-08-12,2017-08-12,3.19,Fixed Interest Rates,365,0
+927dd1b9-54d2-42d2-b63b-0a29a3a42edb,Conventional Commercial Bank,2015-05-25,2016-05-25,3.71,Fixed Interest Rates,366,0
+2a00b180-2348-4b67-bcec-1a39be30ca7e,Conventional Commercial Bank,2017-09-24,2020-09-24,21.99,Floating Interest Rates,1096,0
+2a00b180-2348-4b67-bcec-1a39be30ca7e,Conventional Commercial Bank,2015-08-28,2019-03-28,15.0,Fixed Interest Rates,1308,0
+afe2d0c9-af73-43d4-a0aa-7a8aa9929530,Conventional Commercial Bank,2017-08-20,2020-08-20,6.0,Floating Interest Rates,1096,0
+afe2d0c9-af73-43d4-a0aa-7a8aa9929530,Conventional Commercial Bank,2016-08-26,2018-08-26,6.0,Floating Interest Rates,730,0
+3b11717b-6c2c-4017-9b98-87083333dfbe,Conventional Commercial Bank,2017-03-30,2018-04-25,9.0,Floating Interest Rates,391,7
+afe2d0c9-af73-43d4-a0aa-7a8aa9929530,Conventional Commercial Bank,2018-08-27,2022-08-27,6.0,Floating Interest Rates,1461,0
+afe2d0c9-af73-43d4-a0aa-7a8aa9929530,Conventional Commercial Bank,2018-03-16,2021-03-16,6.0,Floating Interest Rates,1096,0
+fc290df7-ae01-4d55-89fb-7aa074dc026b,Conventional Commercial Bank,2018-04-28,2018-10-28,14.4,Fixed Interest Rates,183,5
+fc290df7-ae01-4d55-89fb-7aa074dc026b,Conventional Commercial Bank,2017-10-06,2018-04-06,14.4,Fixed Interest Rates,182,0
+fc290df7-ae01-4d55-89fb-7aa074dc026b,Conventional Commercial Bank,2017-03-18,2017-09-18,14.4,Fixed Interest Rates,184,0
+fc290df7-ae01-4d55-89fb-7aa074dc026b,Conventional Commercial Bank,2016-09-01,2017-03-01,14.4,Fixed Interest Rates,181,0
+fc290df7-ae01-4d55-89fb-7aa074dc026b,Conventional Commercial Bank,2016-02-06,2016-08-06,14.4,Fixed Interest Rates,182,0
+fc290df7-ae01-4d55-89fb-7aa074dc026b,Conventional Commercial Bank,2015-07-20,2016-01-20,14.4,Fixed Interest Rates,184,0
+fc290df7-ae01-4d55-89fb-7aa074dc026b,Conventional Commercial Bank,2005-05-21,2005-11-21,24.0,Fixed Interest Rates,184,3510
+c1088e8d-047e-4c93-a731-f03dd54e8ec8,Conventional Commercial Bank,2017-11-19,2018-11-19,6.0,Floating Interest Rates,365,0
+c1088e8d-047e-4c93-a731-f03dd54e8ec8,Conventional Commercial Bank,2016-11-06,2017-11-06,3.19,Fixed Interest Rates,365,0
+c1088e8d-047e-4c93-a731-f03dd54e8ec8,Conventional Commercial Bank,2016-04-18,2016-10-18,3.47,Fixed Interest Rates,183,0
+1add86d4-f953-40d5-a7da-63d0aeb77130,Conventional Commercial Bank,2018-01-27,2023-02-01,21.0,Fixed Interest Rates,1831,0
+809327ec-85f5-460c-8c99-3f005a9ef5c2,Conventional Commercial Bank,2018-02-26,2018-05-06,0.0,Floating Interest Rates,69,0
+809327ec-85f5-460c-8c99-3f005a9ef5c2,Financing Company,2017-12-25,2018-03-26,0.36,Fixed Interest Rates,91,0
+809327ec-85f5-460c-8c99-3f005a9ef5c2,Financing Company,2017-06-01,2017-06-29,6.0,Fixed Interest Rates,28,0
+067e4fee-e714-4ff5-bdf3-38fa16bc6cb8,Conventional Commercial Bank,2016-01-24,2019-07-21,3.17,Fixed Interest Rates,1274,0
+067e4fee-e714-4ff5-bdf3-38fa16bc6cb8,Conventional Commercial Bank,2015-01-22,2017-01-22,3.73,Fixed Interest Rates,731,0
+286764a5-5b39-4813-962f-33f9753bc14b,Conventional Commercial Bank,2015-10-05,2016-04-05,11.4,Fixed Interest Rates,183,0
+286764a5-5b39-4813-962f-33f9753bc14b,Conventional Rural Bank,2017-08-26,2027-08-26,10.8,Floating Interest Rates,3652,36
+286764a5-5b39-4813-962f-33f9753bc14b,Financing Company,2018-03-24,2019-03-24,75.8,Fixed Interest Rates,365,0
+286764a5-5b39-4813-962f-33f9753bc14b,Financing Company,2017-06-24,2020-05-23,25.3,Fixed Interest Rates,1064,0
+286764a5-5b39-4813-962f-33f9753bc14b,Conventional Commercial Bank,2018-09-29,2019-03-29,19.5,Floating Interest Rates,181,0
+286764a5-5b39-4813-962f-33f9753bc14b,Conventional Commercial Bank,2018-04-01,2018-10-01,10.8,Fixed Interest Rates,183,0
+286764a5-5b39-4813-962f-33f9753bc14b,Conventional Commercial Bank,2017-09-16,2018-03-16,10.8,Fixed Interest Rates,181,0
+286764a5-5b39-4813-962f-33f9753bc14b,Conventional Commercial Bank,2017-04-28,2017-10-28,11.4,Fixed Interest Rates,183,0
+286764a5-5b39-4813-962f-33f9753bc14b,Conventional Commercial Bank,2016-10-24,2017-04-24,11.4,Fixed Interest Rates,182,0
+286764a5-5b39-4813-962f-33f9753bc14b,Financing Company,2016-02-01,2017-01-01,66.11,Fixed Interest Rates,335,0
+286764a5-5b39-4813-962f-33f9753bc14b,Conventional Commercial Bank,2016-04-24,2016-10-24,11.4,Fixed Interest Rates,183,0
+286764a5-5b39-4813-962f-33f9753bc14b,Conventional Commercial Bank,2015-04-27,2015-10-27,4.04,Fixed Interest Rates,183,0
+286764a5-5b39-4813-962f-33f9753bc14b,Financing Company,2018-11-20,2018-12-03,2.95,Fixed Interest Rates,13,0
+32138649-14ad-4025-ac28-0aad67da87c5,Conventional Commercial Bank,2016-04-29,2017-04-29,3.19,Fixed Interest Rates,365,0
+32138649-14ad-4025-ac28-0aad67da87c5,Conventional Commercial Bank,2015-04-25,2016-04-25,3.71,Fixed Interest Rates,366,0
+35870ecb-f427-4f92-9640-e0b7baca1c23,Financing Company,2018-08-26,2023-08-26,6.1,Fixed Interest Rates,1826,0
+94051ef5-a1f0-4754-a813-e418ba639b7e,Financing Company,2015-10-13,2018-09-13,29.05,Fixed Interest Rates,1066,0
+900eae41-a9b3-4895-b7fa-5f3708a684b9,Conventional Commercial Bank,2016-05-01,2018-05-01,13.0,Floating Interest Rates,730,216
+900eae41-a9b3-4895-b7fa-5f3708a684b9,Financing Company,2016-03-25,2018-03-25,23.14,Fixed Interest Rates,730,129
+900eae41-a9b3-4895-b7fa-5f3708a684b9,Conventional Commercial Bank,2016-05-01,2018-05-01,13.0,Fixed Interest Rates,730,63
+94051ef5-a1f0-4754-a813-e418ba639b7e,Conventional Rural Bank,2017-04-17,2017-10-17,30.0,Fixed Interest Rates,183,0
+94051ef5-a1f0-4754-a813-e418ba639b7e,Financing Company,2018-01-16,2020-01-16,43.96,Fixed Interest Rates,730,0
+94051ef5-a1f0-4754-a813-e418ba639b7e,Conventional Rural Bank,2018-04-12,2018-10-12,27.0,Fixed Interest Rates,183,19
+94051ef5-a1f0-4754-a813-e418ba639b7e,Conventional Commercial Bank,2017-06-30,2021-06-30,22.0,Floating Interest Rates,1461,0
+94051ef5-a1f0-4754-a813-e418ba639b7e,Conventional Rural Bank,2017-10-10,2018-04-10,27.0,Fixed Interest Rates,182,0
+152d58f4-9da0-4990-bad6-be4818618b5e,Conventional Commercial Bank,2017-10-12,2022-06-12,22.0,Floating Interest Rates,1704,0
+94051ef5-a1f0-4754-a813-e418ba639b7e,Conventional Rural Bank,2017-01-23,2017-02-23,18.0,Fixed Interest Rates,31,6
+94051ef5-a1f0-4754-a813-e418ba639b7e,Conventional Rural Bank,2016-10-23,2017-01-23,27.0,Fixed Interest Rates,92,9
+94051ef5-a1f0-4754-a813-e418ba639b7e,Conventional Rural Bank,2016-07-23,2016-10-23,27.0,Fixed Interest Rates,92,0
+94051ef5-a1f0-4754-a813-e418ba639b7e,Conventional Rural Bank,2015-08-04,2016-02-04,27.0,Fixed Interest Rates,184,0
+94051ef5-a1f0-4754-a813-e418ba639b7e,Conventional Rural Bank,2015-02-05,2015-08-05,27.0,Fixed Interest Rates,181,0
+94051ef5-a1f0-4754-a813-e418ba639b7e,Conventional Rural Bank,2016-03-12,2016-09-12,27.0,Fixed Interest Rates,184,0
+152d58f4-9da0-4990-bad6-be4818618b5e,Financing Company,2018-10-28,2020-10-28,34.27,Fixed Interest Rates,731,0
+152d58f4-9da0-4990-bad6-be4818618b5e,Conventional Commercial Bank,2018-10-28,2020-10-28,15.0,Fixed Interest Rates,731,0
+152d58f4-9da0-4990-bad6-be4818618b5e,Financing Company,2017-01-29,2019-02-03,37.11,Fixed Interest Rates,735,0
+152d58f4-9da0-4990-bad6-be4818618b5e,Conventional Commercial Bank,2017-02-01,2019-02-03,17.5,Fixed Interest Rates,732,0
+152d58f4-9da0-4990-bad6-be4818618b5e,Conventional Commercial Bank,2016-04-25,2019-04-25,15.0,Fixed Interest Rates,1095,0
+152d58f4-9da0-4990-bad6-be4818618b5e,Financing Company,2014-06-10,2017-05-05,25.77,Fixed Interest Rates,1060,0
+152d58f4-9da0-4990-bad6-be4818618b5e,Conventional Commercial Bank,2016-06-05,2016-12-03,6.0,Floating Interest Rates,181,0
+152d58f4-9da0-4990-bad6-be4818618b5e,Conventional Commercial Bank,2015-11-15,2016-05-14,7.0,Floating Interest Rates,181,0
+152d58f4-9da0-4990-bad6-be4818618b5e,Conventional Commercial Bank,2015-05-03,2015-11-02,7.0,Floating Interest Rates,183,0
+d29d6a89-e047-4e07-b2d6-97ba73fd68d8,Conventional Commercial Bank,2017-09-29,2018-09-29,3.19,Fixed Interest Rates,365,0
+d29d6a89-e047-4e07-b2d6-97ba73fd68d8,Conventional Commercial Bank,2016-09-30,2017-09-30,3.19,Fixed Interest Rates,365,0
+d29d6a89-e047-4e07-b2d6-97ba73fd68d8,Conventional Commercial Bank,2015-09-06,2016-09-06,3.71,Fixed Interest Rates,366,0
+d29d6a89-e047-4e07-b2d6-97ba73fd68d8,Conventional Commercial Bank,2014-12-22,2015-12-22,15.0,Fixed Interest Rates,365,0
+4870dcac-79bb-414b-93a4-e356d62b06ca,Conventional Commercial Bank,2018-03-31,2021-03-31,6.0,Floating Interest Rates,1096,0
+581ceea7-1ff3-4fe1-9de8-b2de29bc58ef,Conventional Commercial Bank,2017-12-22,2023-01-01,21.0,Fixed Interest Rates,1836,0
+581ceea7-1ff3-4fe1-9de8-b2de29bc58ef,Conventional Commercial Bank,2018-03-25,2021-03-25,3.13,Fixed Interest Rates,1096,0
+581ceea7-1ff3-4fe1-9de8-b2de29bc58ef,Conventional Commercial Bank,2016-07-30,2019-07-30,3.13,Fixed Interest Rates,1095,0
+e53fecf1-1006-4ae3-a112-e86329b5ed59,Financing Company,2018-05-18,2023-05-13,18.38,Fixed Interest Rates,1821,0
+e53fecf1-1006-4ae3-a112-e86329b5ed59,Financing Company,2017-09-07,2019-09-07,50.03,Fixed Interest Rates,730,26
+e53fecf1-1006-4ae3-a112-e86329b5ed59,Conventional Commercial Bank,2018-03-12,2019-03-12,6.0,Floating Interest Rates,365,0
+e53fecf1-1006-4ae3-a112-e86329b5ed59,Conventional Commercial Bank,2016-11-19,2017-11-19,3.19,Fixed Interest Rates,365,0
+e53fecf1-1006-4ae3-a112-e86329b5ed59,Financing Company,2016-02-15,2018-02-15,49.99,Fixed Interest Rates,731,18
+e53fecf1-1006-4ae3-a112-e86329b5ed59,Financing Company,2015-02-09,2017-02-09,46.56,Fixed Interest Rates,731,23
+e53fecf1-1006-4ae3-a112-e86329b5ed59,Financing Company,2013-06-24,2016-05-24,35.09,Fixed Interest Rates,1065,9
+e53fecf1-1006-4ae3-a112-e86329b5ed59,Conventional Commercial Bank,2014-10-06,2016-05-24,8.9,Fixed Interest Rates,596,9
+e53fecf1-1006-4ae3-a112-e86329b5ed59,Financing Company,2013-09-30,2015-08-30,37.13,Fixed Interest Rates,699,33
+e53fecf1-1006-4ae3-a112-e86329b5ed59,Conventional Commercial Bank,2013-09-30,2015-08-30,13.08,Fixed Interest Rates,699,33
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2018-09-14,2018-10-07,2.95,Fixed Interest Rates,23,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2018-08-26,2018-10-07,2.95,Fixed Interest Rates,42,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2018-09-15,2018-10-07,2.95,Fixed Interest Rates,22,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2018-07-31,2018-09-07,2.95,Fixed Interest Rates,38,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2018-08-08,2018-09-07,2.95,Fixed Interest Rates,30,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2018-08-22,2018-09-07,2.95,Fixed Interest Rates,16,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2017-11-13,2017-12-07,2.94,Fixed Interest Rates,24,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2018-08-05,2018-09-07,2.95,Fixed Interest Rates,33,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2018-08-25,2018-09-07,2.95,Fixed Interest Rates,13,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2018-07-29,2018-09-07,2.95,Fixed Interest Rates,40,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2018-06-27,2018-08-07,2.95,Fixed Interest Rates,41,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2018-06-29,2018-08-07,2.95,Fixed Interest Rates,39,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2018-06-29,2018-08-07,2.95,Fixed Interest Rates,39,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2018-07-04,2018-08-07,2.95,Fixed Interest Rates,34,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2018-05-28,2018-07-07,2.95,Fixed Interest Rates,40,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2018-05-31,2018-07-07,2.95,Fixed Interest Rates,37,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2018-05-26,2018-07-07,2.95,Fixed Interest Rates,42,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2018-05-31,2018-07-07,2.95,Fixed Interest Rates,37,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2018-02-19,2018-05-07,2.95,Fixed Interest Rates,77,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2018-01-24,2018-02-07,2.94,Fixed Interest Rates,14,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2018-01-17,2018-02-07,2.95,Fixed Interest Rates,21,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2018-01-19,2018-02-07,2.94,Fixed Interest Rates,19,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2018-01-19,2018-02-07,2.94,Fixed Interest Rates,19,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2017-12-03,2018-03-07,2.95,Fixed Interest Rates,94,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2017-10-30,2017-12-07,2.95,Fixed Interest Rates,38,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2017-10-29,2017-12-07,2.94,Fixed Interest Rates,39,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2017-10-31,2017-12-07,2.95,Fixed Interest Rates,37,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2017-10-30,2017-12-07,2.95,Fixed Interest Rates,38,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2017-11-10,2017-12-07,2.94,Fixed Interest Rates,27,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2017-11-16,2017-12-07,2.95,Fixed Interest Rates,21,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2017-11-13,2017-12-07,2.95,Fixed Interest Rates,24,0
+b15c8c91-78e8-45de-9b1b-eca054394a91,Financing Company,2018-11-06,2018-12-07,2.95,Fixed Interest Rates,31,0
+a0158275-ae06-4a2b-8a85-88bb7bcdce50,Conventional Commercial Bank,2018-02-22,2018-03-06,22.0,Fixed Interest Rates,12,271
+a0158275-ae06-4a2b-8a85-88bb7bcdce50,Financing Company,2018-02-22,2018-03-07,2.95,Fixed Interest Rates,13,270
+a0158275-ae06-4a2b-8a85-88bb7bcdce50,Conventional Commercial Bank,2017-07-23,2022-02-23,6.0,Floating Interest Rates,1676,40
+a0158275-ae06-4a2b-8a85-88bb7bcdce50,Conventional Commercial Bank,2018-02-22,2018-03-06,22.0,Fixed Interest Rates,12,210
+a0158275-ae06-4a2b-8a85-88bb7bcdce50,Financing Company,2018-02-22,2018-03-07,2.95,Fixed Interest Rates,13,209
+a0158275-ae06-4a2b-8a85-88bb7bcdce50,Conventional Commercial Bank,2018-01-23,2018-02-06,22.0,Fixed Interest Rates,14,0
+a0158275-ae06-4a2b-8a85-88bb7bcdce50,Financing Company,2018-01-23,2018-02-07,2.95,Fixed Interest Rates,15,0
+a0158275-ae06-4a2b-8a85-88bb7bcdce50,Financing Company,2017-07-13,2018-01-07,2.0,Fixed Interest Rates,178,0
+a0158275-ae06-4a2b-8a85-88bb7bcdce50,Financing Company,2017-10-13,2018-01-07,2.95,Fixed Interest Rates,86,0
+a0158275-ae06-4a2b-8a85-88bb7bcdce50,Financing Company,2017-12-22,2018-01-07,2.94,Fixed Interest Rates,16,0
+a0158275-ae06-4a2b-8a85-88bb7bcdce50,Conventional Commercial Bank,2017-12-22,2018-01-06,22.0,Fixed Interest Rates,15,0
+a0158275-ae06-4a2b-8a85-88bb7bcdce50,Conventional Commercial Bank,2017-10-13,2018-01-06,24.5,Fixed Interest Rates,85,0
+a0158275-ae06-4a2b-8a85-88bb7bcdce50,Conventional Commercial Bank,2017-11-17,2017-12-06,22.0,Fixed Interest Rates,19,0
+a0158275-ae06-4a2b-8a85-88bb7bcdce50,Conventional Commercial Bank,2017-11-18,2017-12-06,22.0,Fixed Interest Rates,18,0
+a0158275-ae06-4a2b-8a85-88bb7bcdce50,Conventional Commercial Bank,2017-11-13,2017-12-06,22.0,Fixed Interest Rates,23,0
+a0158275-ae06-4a2b-8a85-88bb7bcdce50,Financing Company,2017-10-22,2017-11-07,2.94,Fixed Interest Rates,16,0
+a0158275-ae06-4a2b-8a85-88bb7bcdce50,Conventional Commercial Bank,2017-10-22,2017-11-06,22.0,Fixed Interest Rates,15,0
+a0158275-ae06-4a2b-8a85-88bb7bcdce50,Financing Company,2017-07-09,2017-10-07,2.0,Fixed Interest Rates,90,0
+a0158275-ae06-4a2b-8a85-88bb7bcdce50,Financing Company,2017-05-31,2017-09-07,2.95,Fixed Interest Rates,99,0
+a0158275-ae06-4a2b-8a85-88bb7bcdce50,Financing Company,2016-10-18,2017-01-06,2.94,Fixed Interest Rates,80,0
+a0158275-ae06-4a2b-8a85-88bb7bcdce50,Financing Company,2017-11-13,2017-12-07,2.95,Fixed Interest Rates,24,0
+a0158275-ae06-4a2b-8a85-88bb7bcdce50,Financing Company,2017-11-17,2017-12-07,2.95,Fixed Interest Rates,20,0
+a0158275-ae06-4a2b-8a85-88bb7bcdce50,Financing Company,2017-11-18,2017-12-07,2.95,Fixed Interest Rates,19,0
+f665aa94-0776-46e6-b7d7-055538f9779f,Conventional Commercial Bank,2018-06-09,2019-06-09,6.0,Floating Interest Rates,365,0
+f665aa94-0776-46e6-b7d7-055538f9779f,Conventional Commercial Bank,2017-06-23,2018-06-23,3.19,Fixed Interest Rates,365,0
+f665aa94-0776-46e6-b7d7-055538f9779f,Conventional Commercial Bank,2016-06-25,2017-06-25,3.19,Fixed Interest Rates,365,0
+f665aa94-0776-46e6-b7d7-055538f9779f,Conventional Commercial Bank,2015-07-18,2016-07-18,3.71,Fixed Interest Rates,366,0
+dc77480b-cf2d-4ade-a1c8-0184aded3651,Conventional Commercial Bank,2016-08-27,2019-08-26,6.0,Fixed Interest Rates,1094,1
+f46ef146-9746-4668-8df9-0338fc7719d5,Conventional Commercial Bank,2016-12-17,2028-12-17,12.0,Fixed Interest Rates,4383,0
+f46ef146-9746-4668-8df9-0338fc7719d5,Conventional Commercial Bank,2012-05-25,2017-05-25,12.0,Fixed Interest Rates,1826,0
+f2056b7f-df77-41ec-837a-574fe2f83eb2,Conventional Commercial Bank,2017-03-31,2018-03-31,14.4,Fixed Interest Rates,365,0
+f2056b7f-df77-41ec-837a-574fe2f83eb2,Conventional Commercial Bank,2016-03-17,2017-03-17,14.4,Fixed Interest Rates,365,0
+f2056b7f-df77-41ec-837a-574fe2f83eb2,Conventional Commercial Bank,2015-04-06,2016-04-06,14.4,Fixed Interest Rates,366,0
+aeeaae30-6985-4fa3-a178-8dd901e2bfc5,Conventional Commercial Bank,2014-05-16,2017-02-16,10.5,Floating Interest Rates,1007,0
+aeeaae30-6985-4fa3-a178-8dd901e2bfc5,Financing Company,2014-02-23,2017-01-23,15.0,Fixed Interest Rates,1065,9
+67452418-37a1-47ca-a69b-09ddee2de412,Financing Company,2016-02-28,2019-02-22,21.0,Fixed Interest Rates,1090,0
+67452418-37a1-47ca-a69b-09ddee2de412,Conventional Commercial Bank,2014-10-13,2017-10-13,7.0,Floating Interest Rates,1096,0
+10f62331-049b-4aab-9d68-000f97c12bf8,Conventional Commercial Bank,2018-06-08,2023-06-08,11.04,Fixed Interest Rates,1826,0
+10f62331-049b-4aab-9d68-000f97c12bf8,Conventional Commercial Bank,2017-10-05,2022-10-05,19.75,Floating Interest Rates,1826,0
+10f62331-049b-4aab-9d68-000f97c12bf8,Conventional Commercial Bank,2016-11-27,2017-11-27,3.19,Fixed Interest Rates,365,0
+fdf34a7e-abac-4271-8ece-d51a95c9ea70,Conventional Commercial Bank,2017-10-20,2018-10-20,15.0,Floating Interest Rates,365,73
+424ae95e-c413-47b9-b470-9f6e87e90c66,Conventional Commercial Bank,2016-03-12,2020-03-12,6.0,Floating Interest Rates,1461,0
+424ae95e-c413-47b9-b470-9f6e87e90c66,Conventional Commercial Bank,2015-03-15,2018-03-15,3.72,Fixed Interest Rates,1096,0
+42ca0d36-8e43-40d4-af54-b70fea0c3d1d,Conventional Commercial Bank,2018-06-15,2018-07-15,51.0,Fixed Interest Rates,30,0
+42ca0d36-8e43-40d4-af54-b70fea0c3d1d,Conventional Commercial Bank,2018-02-22,2018-05-22,35.0,Fixed Interest Rates,89,0
+42ca0d36-8e43-40d4-af54-b70fea0c3d1d,Financing Company,2017-11-20,2018-02-26,0.42,Fixed Interest Rates,98,0
+5e57ebf3-0336-48f2-a11c-52be9f222617,Conventional Commercial Bank,2017-09-08,2019-09-08,19.5,Floating Interest Rates,730,0
+5e57ebf3-0336-48f2-a11c-52be9f222617,Conventional Commercial Bank,2017-01-05,2017-04-26,12.0,Fixed Interest Rates,111,0
+0cd4f5ba-6573-4ef8-8ca8-94ffb158f930,Financing Company,2018-04-02,2020-11-02,18.84,Fixed Interest Rates,945,0
+51f56c1b-1a65-44ec-9cc3-7e31d4d9e475,Conventional Commercial Bank,2016-10-09,2017-10-09,3.19,Fixed Interest Rates,365,0
+9db28990-0c33-439a-8760-7b9ef8100a4f,Conventional Commercial Bank,2015-04-02,2019-04-01,1.75,Floating Interest Rates,1460,22
+9db28990-0c33-439a-8760-7b9ef8100a4f,Conventional Commercial Bank,2016-08-19,2026-08-19,13.0,Floating Interest Rates,3652,74
+9db28990-0c33-439a-8760-7b9ef8100a4f,Conventional Commercial Bank,2018-09-03,2018-10-12,22.22,Fixed Interest Rates,39,0
+9db28990-0c33-439a-8760-7b9ef8100a4f,Conventional Commercial Bank,2018-08-20,2018-09-12,22.22,Fixed Interest Rates,23,0
+0345f2ba-d9d9-44b0-b8ef-361b73e1bf8b,Financing Company,2013-09-27,2016-04-02,31.02,Fixed Interest Rates,918,0
+9db28990-0c33-439a-8760-7b9ef8100a4f,Conventional Commercial Bank,2018-06-13,2018-09-12,24.2,Fixed Interest Rates,91,0
+9db28990-0c33-439a-8760-7b9ef8100a4f,Conventional Commercial Bank,2018-08-20,2018-09-12,22.22,Fixed Interest Rates,23,0
+9db28990-0c33-439a-8760-7b9ef8100a4f,Conventional Commercial Bank,2018-06-14,2018-09-12,24.2,Fixed Interest Rates,90,0
+9db28990-0c33-439a-8760-7b9ef8100a4f,Conventional Commercial Bank,2018-07-22,2018-08-12,22.15,Fixed Interest Rates,21,0
+9db28990-0c33-439a-8760-7b9ef8100a4f,Conventional Commercial Bank,2018-07-20,2018-08-12,22.15,Fixed Interest Rates,23,0
+9db28990-0c33-439a-8760-7b9ef8100a4f,Conventional Commercial Bank,2018-06-15,2018-07-12,22.15,Fixed Interest Rates,27,0
+9db28990-0c33-439a-8760-7b9ef8100a4f,Conventional Commercial Bank,2018-03-22,2018-06-13,21.0,Fixed Interest Rates,83,0
+9db28990-0c33-439a-8760-7b9ef8100a4f,Conventional Commercial Bank,2018-03-18,2018-06-12,24.5,Fixed Interest Rates,86,0
+9db28990-0c33-439a-8760-7b9ef8100a4f,Conventional Commercial Bank,2018-04-04,2018-05-12,22.0,Fixed Interest Rates,38,0
+9db28990-0c33-439a-8760-7b9ef8100a4f,Conventional Commercial Bank,2018-04-11,2018-05-12,22.15,Fixed Interest Rates,31,0
+9db28990-0c33-439a-8760-7b9ef8100a4f,Conventional Commercial Bank,2018-04-13,2018-05-12,22.15,Fixed Interest Rates,29,0
+0345f2ba-d9d9-44b0-b8ef-361b73e1bf8b,Financing Company,2018-11-01,2020-10-02,36.07,Fixed Interest Rates,701,0
+0345f2ba-d9d9-44b0-b8ef-361b73e1bf8b,Conventional Commercial Bank,2017-08-24,2020-08-24,26.0,Floating Interest Rates,1096,0
+0345f2ba-d9d9-44b0-b8ef-361b73e1bf8b,Conventional Commercial Bank,2016-02-29,2019-03-01,3.17,Fixed Interest Rates,1096,0
+1721d9d7-2d5d-41a5-bcfd-3d596911af4c,Financing Company,2018-05-06,2019-05-06,27.48,Fixed Interest Rates,365,0
+0345f2ba-d9d9-44b0-b8ef-361b73e1bf8b,Conventional Commercial Bank,2014-10-05,2017-10-05,3.72,Fixed Interest Rates,1096,0
+105f5dbc-cc36-4400-a5d9-429981c7c14a,Conventional Commercial Bank,2017-12-16,2020-12-16,6.0,Floating Interest Rates,1096,0
+105f5dbc-cc36-4400-a5d9-429981c7c14a,Financing Company,2015-08-18,2016-02-18,27.48,Fixed Interest Rates,184,0
+105f5dbc-cc36-4400-a5d9-429981c7c14a,Conventional Commercial Bank,2015-08-20,2016-02-18,32.75,Fixed Interest Rates,182,0
+1721d9d7-2d5d-41a5-bcfd-3d596911af4c,Financing Company,2017-05-07,2018-05-02,61.0,Fixed Interest Rates,360,0
+f9578faa-4940-4157-803f-200b4175fb02,Conventional Commercial Bank,2018-08-06,2020-08-06,25.5,Floating Interest Rates,731,0
+f9578faa-4940-4157-803f-200b4175fb02,Financing Company,2018-11-13,2019-11-13,62.9,Fixed Interest Rates,365,0
+10e876b5-a4d3-4b1d-a958-18a3606401fa,Conventional Commercial Bank,2018-05-20,2021-05-20,6.0,Floating Interest Rates,1096,0
+1721d9d7-2d5d-41a5-bcfd-3d596911af4c,Financing Company,2016-12-31,2017-09-02,78.0,Fixed Interest Rates,245,0
+be85dc65-a106-49c4-bb6d-1b0a026fa7e8,Financing Company,2015-08-30,2019-08-27,19.14,Fixed Interest Rates,1458,34
+be85dc65-a106-49c4-bb6d-1b0a026fa7e8,Conventional Commercial Bank,2017-09-29,2018-06-29,12.0,Fixed Interest Rates,273,0
+be85dc65-a106-49c4-bb6d-1b0a026fa7e8,Conventional Commercial Bank,2018-02-11,2018-06-11,12.0,Fixed Interest Rates,120,0
+be85dc65-a106-49c4-bb6d-1b0a026fa7e8,Conventional Commercial Bank,2016-09-01,2017-09-01,14.4,Fixed Interest Rates,365,0
+be85dc65-a106-49c4-bb6d-1b0a026fa7e8,Conventional Commercial Bank,2015-06-15,2016-06-15,3.71,Fixed Interest Rates,366,0
+1721d9d7-2d5d-41a5-bcfd-3d596911af4c,Conventional Commercial Bank,2014-03-07,2017-03-07,7.0,Fixed Interest Rates,1096,0
+1721d9d7-2d5d-41a5-bcfd-3d596911af4c,Financing Company,2013-04-30,2016-04-06,31.0,Fixed Interest Rates,1072,0
+b656d09a-7d3b-40a2-84a3-83b98f5080cd,Conventional Commercial Bank,2013-05-27,2014-05-27,14.4,Fixed Interest Rates,365,1770
+b656d09a-7d3b-40a2-84a3-83b98f5080cd,Conventional Commercial Bank,2013-03-21,2015-02-21,12.0,Fixed Interest Rates,702,985
+b656d09a-7d3b-40a2-84a3-83b98f5080cd,Financing Company,2013-04-21,2015-02-21,10.29,Fixed Interest Rates,671,557
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-01-19,2018-02-13,2.94,Fixed Interest Rates,25,0
+e8861e7b-f9c6-408c-a277-69d01f90ae7e,Conventional Rural Bank,2015-09-11,2016-03-11,30.0,Fixed Interest Rates,182,0
+59e77f93-1fcd-4543-be4a-5efbc3972f75,Financing Company,2015-12-10,2019-05-10,26.0,Fixed Interest Rates,1247,691
+59e77f93-1fcd-4543-be4a-5efbc3972f75,Financing Company,2016-01-22,2017-08-22,54.0,Fixed Interest Rates,578,101
+59e77f93-1fcd-4543-be4a-5efbc3972f75,Financing Company,2016-05-14,2017-08-14,33.36,Fixed Interest Rates,457,49
+59e77f93-1fcd-4543-be4a-5efbc3972f75,Conventional Commercial Bank,2015-07-24,2018-07-24,12.5,Floating Interest Rates,1096,0
+59e77f93-1fcd-4543-be4a-5efbc3972f75,Financing Company,2015-07-23,2018-07-23,26.52,Fixed Interest Rates,1096,71
+59e77f93-1fcd-4543-be4a-5efbc3972f75,Financing Company,2016-03-14,2017-03-14,43.89,Fixed Interest Rates,365,18
+59e77f93-1fcd-4543-be4a-5efbc3972f75,Conventional Commercial Bank,2014-10-21,2016-11-21,9.0,Fixed Interest Rates,762,12
+59e77f93-1fcd-4543-be4a-5efbc3972f75,Financing Company,2013-12-21,2016-11-21,25.09,Fixed Interest Rates,1066,12
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-01-26,2018-02-13,2.94,Fixed Interest Rates,18,0
+59e77f93-1fcd-4543-be4a-5efbc3972f75,Financing Company,2014-10-11,2016-09-11,23.05,Fixed Interest Rates,701,20
+59e77f93-1fcd-4543-be4a-5efbc3972f75,Financing Company,2011-10-17,2016-09-17,20.0,Fixed Interest Rates,1797,76
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-02-06,2018-03-13,1.99,Fixed Interest Rates,35,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-09-15,2019-04-06,43.99,Fixed Interest Rates,203,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-09-01,2019-02-12,35.39,Fixed Interest Rates,164,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-08-26,2018-09-25,158.26,Fixed Interest Rates,30,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-09-01,2019-02-13,2.95,Fixed Interest Rates,165,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-09-15,2018-10-15,158.26,Fixed Interest Rates,30,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-09-08,2018-10-12,22.22,Fixed Interest Rates,34,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-09-01,2019-02-12,35.39,Fixed Interest Rates,164,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-08-06,2018-11-06,35.37,Fixed Interest Rates,92,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-09-15,2019-03-06,43.99,Fixed Interest Rates,172,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-09-08,2018-10-13,2.95,Fixed Interest Rates,35,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-07-11,2018-08-13,2.95,Fixed Interest Rates,33,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-09-01,2019-02-13,2.95,Fixed Interest Rates,165,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-08-04,2018-09-13,2.95,Fixed Interest Rates,40,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-08-04,2018-09-12,22.22,Fixed Interest Rates,39,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-07-21,2018-10-06,27.91,Fixed Interest Rates,77,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-08-23,2018-09-26,0.22,Fixed Interest Rates,34,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-08-22,2018-09-26,0.17,Fixed Interest Rates,35,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-08-25,2018-09-26,0.14,Fixed Interest Rates,32,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-08-22,2018-09-26,0.21,Fixed Interest Rates,35,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-01-19,2018-02-13,2.94,Fixed Interest Rates,25,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-07-29,2018-08-13,2.95,Fixed Interest Rates,15,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-07-31,2018-08-13,2.95,Fixed Interest Rates,13,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-07-11,2018-08-13,2.95,Fixed Interest Rates,33,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-07-12,2018-08-13,2.95,Fixed Interest Rates,32,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-07-27,2018-08-13,27.3,Fixed Interest Rates,17,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-06-17,2018-09-06,27.91,Fixed Interest Rates,81,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-07-12,2018-08-12,22.15,Fixed Interest Rates,31,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-07-31,2018-08-12,22.15,Fixed Interest Rates,12,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-07-11,2018-08-12,22.15,Fixed Interest Rates,32,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-07-29,2018-08-12,22.15,Fixed Interest Rates,14,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-07-11,2018-08-12,22.15,Fixed Interest Rates,32,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-06-25,2018-07-13,2.95,Fixed Interest Rates,18,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-05-12,2018-08-06,27.91,Fixed Interest Rates,86,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-06-25,2018-07-12,22.15,Fixed Interest Rates,17,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-04-26,2018-05-13,21.0,Fixed Interest Rates,17,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-04-28,2018-05-13,21.0,Fixed Interest Rates,15,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-04-17,2018-05-13,2.95,Fixed Interest Rates,26,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-04-26,2018-05-13,2.95,Fixed Interest Rates,17,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-04-06,2018-05-13,2.95,Fixed Interest Rates,37,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-04-19,2018-05-13,2.95,Fixed Interest Rates,24,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-04-17,2018-05-12,22.15,Fixed Interest Rates,25,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-04-06,2018-05-12,22.15,Fixed Interest Rates,36,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-03-19,2018-05-06,28.3,Fixed Interest Rates,48,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-04-26,2018-05-12,22.15,Fixed Interest Rates,16,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-04-19,2018-05-12,22.15,Fixed Interest Rates,23,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2013-02-11,2016-02-26,4.8,Floating Interest Rates,1110,1254
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-01-10,2018-02-13,2.95,Fixed Interest Rates,34,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-01-19,2018-02-12,22.0,Fixed Interest Rates,24,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-01-26,2018-02-12,22.0,Fixed Interest Rates,17,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-01-10,2018-02-12,22.0,Fixed Interest Rates,33,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-01-19,2018-02-12,22.0,Fixed Interest Rates,24,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2017-11-21,2017-12-12,22.0,Fixed Interest Rates,21,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2017-11-20,2017-12-12,22.0,Fixed Interest Rates,22,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Rural Bank,2014-08-14,2015-02-14,30.0,Floating Interest Rates,184,745
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2017-11-21,2017-12-13,2.94,Fixed Interest Rates,22,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-02-02,2018-03-13,2.95,Fixed Interest Rates,39,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-02-13,2018-03-12,22.0,Fixed Interest Rates,27,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-10-26,2018-11-13,27.3,Fixed Interest Rates,18,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-02-06,2018-03-12,22.0,Fixed Interest Rates,34,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2017-11-20,2017-12-13,2.95,Fixed Interest Rates,23,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-02-06,2018-03-12,22.0,Fixed Interest Rates,34,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-10-25,2018-11-15,18.82,Fixed Interest Rates,21,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-02-10,2018-03-12,22.0,Fixed Interest Rates,30,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-02-06,2018-03-13,2.95,Fixed Interest Rates,35,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-02-02,2018-03-12,22.0,Fixed Interest Rates,38,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Conventional Commercial Bank,2018-11-29,2019-03-06,44.64,Fixed Interest Rates,97,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-02-13,2018-03-13,2.94,Fixed Interest Rates,28,0
+26249cb0-47d1-4fcf-b010-f35da75719d7,Financing Company,2018-02-10,2018-03-13,2.94,Fixed Interest Rates,31,0
+ae46bba1-44da-4ab4-a5b5-5d1cb407ea52,Conventional Commercial Bank,2016-03-17,2016-09-13,14.0,Floating Interest Rates,180,0
+ae46bba1-44da-4ab4-a5b5-5d1cb407ea52,Financing Company,2016-03-13,2016-09-13,71.02,Fixed Interest Rates,184,0
+24ce9b34-1b58-4aa1-a099-7f7bc4742dae,Conventional Commercial Bank,2016-03-19,2019-03-19,6.0,Floating Interest Rates,1095,0
+c388702e-d50a-491c-9906-6f75c6e35d9c,Conventional Commercial Bank,2017-04-13,2019-04-13,6.0,Floating Interest Rates,730,0
+c388702e-d50a-491c-9906-6f75c6e35d9c,Conventional Commercial Bank,2015-07-04,2017-07-04,3.73,Fixed Interest Rates,731,0
+faefc9b3-3040-4b4a-a722-4ab28463713a,Conventional Commercial Bank,2016-07-22,2017-01-22,3.47,Fixed Interest Rates,184,0
+faefc9b3-3040-4b4a-a722-4ab28463713a,Conventional Commercial Bank,2016-01-15,2016-07-15,3.47,Fixed Interest Rates,182,0
+faefc9b3-3040-4b4a-a722-4ab28463713a,Conventional Commercial Bank,2015-07-17,2016-01-17,4.04,Fixed Interest Rates,184,0
+faefc9b3-3040-4b4a-a722-4ab28463713a,Conventional Commercial Bank,2015-01-16,2015-07-16,4.04,Fixed Interest Rates,181,0
+174a3c68-6e55-4daa-8159-54be898ab3e1,Conventional Commercial Bank,2018-06-19,2019-06-06,40.92,Fixed Interest Rates,352,0
+174a3c68-6e55-4daa-8159-54be898ab3e1,Financing Company,2018-06-19,2019-06-07,2.95,Fixed Interest Rates,353,0
+174a3c68-6e55-4daa-8159-54be898ab3e1,Conventional Commercial Bank,2017-10-22,2020-10-22,13.5,Floating Interest Rates,1096,0
+174a3c68-6e55-4daa-8159-54be898ab3e1,Conventional Commercial Bank,2018-06-19,2019-06-06,40.92,Fixed Interest Rates,352,0
+174a3c68-6e55-4daa-8159-54be898ab3e1,Financing Company,2018-06-19,2019-06-07,2.95,Fixed Interest Rates,353,0
+174a3c68-6e55-4daa-8159-54be898ab3e1,Conventional Commercial Bank,2018-04-29,2018-06-06,22.15,Fixed Interest Rates,38,0
+174a3c68-6e55-4daa-8159-54be898ab3e1,Financing Company,2018-04-29,2018-06-07,2.95,Fixed Interest Rates,39,0
+174a3c68-6e55-4daa-8159-54be898ab3e1,Financing Company,2018-04-20,2018-05-07,2.95,Fixed Interest Rates,17,0
+174a3c68-6e55-4daa-8159-54be898ab3e1,Conventional Commercial Bank,2018-04-20,2018-05-06,22.15,Fixed Interest Rates,16,0
+174a3c68-6e55-4daa-8159-54be898ab3e1,Financing Company,2017-03-30,2017-09-02,86.0,Fixed Interest Rates,156,0
+174a3c68-6e55-4daa-8159-54be898ab3e1,Financing Company,2015-01-25,2015-07-02,86.0,Fixed Interest Rates,158,0
+5cf1addf-31e3-48a6-a1f5-dcec6b80609e,Financing Company,2018-04-02,2018-05-11,0.21,Fixed Interest Rates,39,143
+5cf1addf-31e3-48a6-a1f5-dcec6b80609e,Conventional Commercial Bank,2017-05-08,2017-12-08,3.4,Fixed Interest Rates,214,0
+5cf1addf-31e3-48a6-a1f5-dcec6b80609e,Conventional Commercial Bank,2016-10-18,2017-05-18,3.4,Fixed Interest Rates,212,0
+5cf1addf-31e3-48a6-a1f5-dcec6b80609e,Conventional Commercial Bank,2016-05-16,2016-11-16,3.47,Fixed Interest Rates,184,0
+5cf1addf-31e3-48a6-a1f5-dcec6b80609e,Conventional Commercial Bank,2015-10-05,2016-05-05,3.95,Fixed Interest Rates,213,0
+5cf1addf-31e3-48a6-a1f5-dcec6b80609e,Conventional Commercial Bank,2015-05-16,2015-11-16,4.04,Fixed Interest Rates,184,0
+5cf1addf-31e3-48a6-a1f5-dcec6b80609e,Financing Company,2018-04-02,2018-05-11,0.21,Fixed Interest Rates,39,174
+a687fe91-c143-4ad7-875f-9f242cf2b4b4,Financing Company,2009-06-11,2011-10-11,102.55,Fixed Interest Rates,852,210
+a687fe91-c143-4ad7-875f-9f242cf2b4b4,Financing Company,2018-04-27,2018-05-27,0.0,Fixed Interest Rates,30,189
+a687fe91-c143-4ad7-875f-9f242cf2b4b4,Financing Company,2018-04-27,2018-05-27,0.0,Fixed Interest Rates,30,128
+cc786610-f32c-4f9a-bd41-d3bbe4520f58,Conventional Commercial Bank,2018-05-28,2023-06-01,21.0,Fixed Interest Rates,1830,0
+4eccd409-ee52-4a54-b22f-26f13760d7a6,Conventional Commercial Bank,2018-09-20,2019-09-19,6.0,Floating Interest Rates,364,0
+b0c06571-7b4d-4a71-bb0f-dbf506f57a99,Conventional Commercial Bank,2016-03-14,2019-03-14,15.0,Fixed Interest Rates,1095,353
+cc786610-f32c-4f9a-bd41-d3bbe4520f58,Conventional Commercial Bank,2018-05-28,2023-06-01,21.0,Fixed Interest Rates,1830,0
+cc786610-f32c-4f9a-bd41-d3bbe4520f58,Conventional Commercial Bank,2017-06-15,2021-06-15,6.0,Floating Interest Rates,1461,0
+cc786610-f32c-4f9a-bd41-d3bbe4520f58,Conventional Commercial Bank,2014-10-11,2017-10-11,7.0,Floating Interest Rates,1096,0
+7f09f92b-d0f9-4669-9dd7-3b6a764308bb,Conventional Commercial Bank,2017-05-28,2018-05-28,3.19,Fixed Interest Rates,365,0
+7f09f92b-d0f9-4669-9dd7-3b6a764308bb,Conventional Commercial Bank,2018-05-10,2019-05-10,6.0,Floating Interest Rates,365,0
+7f09f92b-d0f9-4669-9dd7-3b6a764308bb,Conventional Commercial Bank,2016-10-26,2017-04-26,6.0,Floating Interest Rates,182,0
+691062c4-29de-4840-915c-51ed0101b623,Conventional Commercial Bank,2016-11-05,2017-05-04,6.0,Fixed Interest Rates,180,0
+691062c4-29de-4840-915c-51ed0101b623,Conventional Commercial Bank,2016-04-29,2016-10-28,6.0,Floating Interest Rates,182,0
+691062c4-29de-4840-915c-51ed0101b623,Conventional Commercial Bank,2015-08-30,2016-02-29,7.0,Floating Interest Rates,183,0
+691062c4-29de-4840-915c-51ed0101b623,Conventional Commercial Bank,2015-02-27,2015-08-26,7.0,Floating Interest Rates,180,0
+a2d2ac5c-2e0e-4f0a-aa7f-a5192d741d39,Financing Company,2018-02-26,2019-11-29,17.27,Fixed Interest Rates,641,404
+a2d2ac5c-2e0e-4f0a-aa7f-a5192d741d39,Conventional Commercial Bank,2018-02-17,2018-08-26,12.0,Fixed Interest Rates,190,68
+a2d2ac5c-2e0e-4f0a-aa7f-a5192d741d39,Financing Company,2015-05-01,2019-09-29,11.5,Fixed Interest Rates,1612,274
+a2d2ac5c-2e0e-4f0a-aa7f-a5192d741d39,Financing Company,2016-03-03,2017-07-03,57.68,Fixed Interest Rates,487,60
+a2d2ac5c-2e0e-4f0a-aa7f-a5192d741d39,Financing Company,2007-05-14,2010-09-26,16.0,Fixed Interest Rates,1231,226
+a2d2ac5c-2e0e-4f0a-aa7f-a5192d741d39,Conventional Commercial Bank,2016-07-30,2017-01-30,12.0,Fixed Interest Rates,184,0
+a2d2ac5c-2e0e-4f0a-aa7f-a5192d741d39,Conventional Commercial Bank,2016-03-05,2017-07-03,13.5,Floating Interest Rates,485,0
+a2d2ac5c-2e0e-4f0a-aa7f-a5192d741d39,Conventional Commercial Bank,2015-01-17,2016-04-16,13.0,Floating Interest Rates,455,0
+a2d2ac5c-2e0e-4f0a-aa7f-a5192d741d39,Financing Company,2015-01-16,2016-04-16,60.01,Fixed Interest Rates,456,17
+a2d2ac5c-2e0e-4f0a-aa7f-a5192d741d39,Financing Company,2018-11-11,2020-05-11,40.51,Fixed Interest Rates,547,0
+0cd4f5ba-6573-4ef8-8ca8-94ffb158f930,Financing Company,2016-04-10,2021-04-10,10.05,Fixed Interest Rates,1826,0
+0cd4f5ba-6573-4ef8-8ca8-94ffb158f930,Conventional Commercial Bank,2018-03-10,2021-04-10,5.95,Fixed Interest Rates,1127,0
+0cd4f5ba-6573-4ef8-8ca8-94ffb158f930,Conventional Commercial Bank,2018-04-02,2020-11-02,12.0,Floating Interest Rates,945,0
+0cd4f5ba-6573-4ef8-8ca8-94ffb158f930,Conventional Commercial Bank,2017-03-20,2020-03-20,6.0,Floating Interest Rates,1096,0
+0cd4f5ba-6573-4ef8-8ca8-94ffb158f930,Conventional Commercial Bank,2015-04-03,2017-04-03,3.73,Fixed Interest Rates,731,0
+d9575ab2-acaf-4cfa-8ace-d404e7d7f04f,Conventional Commercial Bank,2018-07-16,2020-07-16,3.14,Fixed Interest Rates,731,0
+d9575ab2-acaf-4cfa-8ace-d404e7d7f04f,Conventional Commercial Bank,2017-07-24,2018-07-24,3.24,Fixed Interest Rates,365,0
+a9aac6c9-17b3-49b6-977b-49ce34c24a62,Conventional Commercial Bank,2016-07-18,2019-07-18,6.0,Floating Interest Rates,1095,0
+a9aac6c9-17b3-49b6-977b-49ce34c24a62,Conventional Commercial Bank,2014-04-12,2016-04-12,3.73,Fixed Interest Rates,731,0
+943acbf7-e773-4c67-8eac-70e737ebdcd8,Conventional Commercial Bank,2018-09-06,2021-09-06,6.0,Floating Interest Rates,1096,0
+abd16e7e-c6ca-44fc-ab26-294da8ba7930,Conventional Commercial Bank,2018-03-31,2020-04-01,11.88,Fixed Interest Rates,732,0
+abd16e7e-c6ca-44fc-ab26-294da8ba7930,Financing Company,2013-08-28,2017-11-27,16.0,Fixed Interest Rates,1552,6
+abd16e7e-c6ca-44fc-ab26-294da8ba7930,Financing Company,2015-07-09,2016-02-09,28.56,Fixed Interest Rates,215,0
+0147ee5c-37fd-4cbc-b320-99b33c0b2fea,Conventional Commercial Bank,2018-05-29,2018-07-29,14.5,Fixed Interest Rates,61,34
+0147ee5c-37fd-4cbc-b320-99b33c0b2fea,Conventional Commercial Bank,2017-05-06,2017-09-08,11.5,Floating Interest Rates,125,0
+d54d1712-cf74-47fa-80c1-01cc3b191e10,Financing Company,2018-02-16,2019-05-16,43.08,Fixed Interest Rates,454,0
+d54d1712-cf74-47fa-80c1-01cc3b191e10,Financing Company,2017-01-07,2018-04-07,43.06,Fixed Interest Rates,455,0
+40bf67a8-a690-45bb-92c5-1edc58b20a23,Conventional Commercial Bank,2016-10-26,2017-10-26,6.0,Floating Interest Rates,365,0
+8ebad343-2a2a-4412-b295-a50db84225c2,Financing Company,2017-12-15,2020-11-14,30.01,Fixed Interest Rates,1065,110
+8ebad343-2a2a-4412-b295-a50db84225c2,Conventional Commercial Bank,2017-12-15,2020-11-14,14.2,Fixed Interest Rates,1065,110
+8ebad343-2a2a-4412-b295-a50db84225c2,Conventional Commercial Bank,2018-08-06,2022-08-06,26.0,Floating Interest Rates,1461,0
+9fff739a-7ad1-490a-8003-6aad570eed44,Financing Company,2018-04-21,2023-04-21,18.01,Fixed Interest Rates,1826,71
+9fff739a-7ad1-490a-8003-6aad570eed44,Conventional Commercial Bank,2017-08-28,2020-08-28,26.0,Floating Interest Rates,1096,0
+9fff739a-7ad1-490a-8003-6aad570eed44,Conventional Commercial Bank,2015-10-17,2018-10-17,15.0,Fixed Interest Rates,1096,0
+9fff739a-7ad1-490a-8003-6aad570eed44,Financing Company,2014-07-20,2017-06-20,26.57,Fixed Interest Rates,1066,0
+9fff739a-7ad1-490a-8003-6aad570eed44,Conventional Commercial Bank,2015-04-20,2017-06-20,9.35,Fixed Interest Rates,792,0
+9fff739a-7ad1-490a-8003-6aad570eed44,Conventional Commercial Bank,2012-12-14,2015-12-14,14.4,Fixed Interest Rates,1095,15
+e8861e7b-f9c6-408c-a277-69d01f90ae7e,Financing Company,2014-08-09,2018-07-09,18.04,Fixed Interest Rates,1430,23
+e8861e7b-f9c6-408c-a277-69d01f90ae7e,Conventional Rural Bank,2017-09-09,2018-03-09,30.0,Fixed Interest Rates,181,0
+e8861e7b-f9c6-408c-a277-69d01f90ae7e,Conventional Rural Bank,2017-03-10,2017-09-10,30.0,Fixed Interest Rates,184,0
+e8861e7b-f9c6-408c-a277-69d01f90ae7e,Conventional Rural Bank,2016-09-10,2017-03-10,30.0,Fixed Interest Rates,181,0
+e8861e7b-f9c6-408c-a277-69d01f90ae7e,Conventional Rural Bank,2016-03-10,2016-09-10,30.0,Fixed Interest Rates,184,0
+e21b43b7-eaf8-4cf9-b418-a3cf56cf97f0,Financing Company,2017-03-26,2017-04-26,0.6,Fixed Interest Rates,31,0
+166fdb54-439c-4633-8f3c-091897b12b0f,Conventional Commercial Bank,2018-06-25,2020-06-25,6.0,Floating Interest Rates,731,0
+e21b43b7-eaf8-4cf9-b418-a3cf56cf97f0,Conventional Commercial Bank,2017-07-02,2017-07-30,17.0,Fixed Interest Rates,28,3
+e21b43b7-eaf8-4cf9-b418-a3cf56cf97f0,Conventional Commercial Bank,2017-05-27,2017-06-24,17.0,Fixed Interest Rates,28,39
+e6e6aad6-e696-46be-beee-ab9bb4e4f31f,Financing Company,2018-05-13,2018-06-26,0.15,Fixed Interest Rates,44,97
+e6e6aad6-e696-46be-beee-ab9bb4e4f31f,Financing Company,2018-05-13,2018-06-26,0.12,Fixed Interest Rates,44,97
+e6e6aad6-e696-46be-beee-ab9bb4e4f31f,Financing Company,2018-05-25,2018-06-26,0.48,Fixed Interest Rates,32,97
+e6e6aad6-e696-46be-beee-ab9bb4e4f31f,Financing Company,2018-05-13,2018-06-26,0.21,Fixed Interest Rates,44,97
+e6e6aad6-e696-46be-beee-ab9bb4e4f31f,Conventional Commercial Bank,2018-06-10,2018-07-10,51.0,Fixed Interest Rates,30,22
+e6e6aad6-e696-46be-beee-ab9bb4e4f31f,Financing Company,2018-05-13,2018-06-26,0.48,Fixed Interest Rates,44,128
+5673b7d4-fa2f-4bcb-adc9-91eaa082c472,Financing Company,2017-12-01,2020-12-05,40.0,Fixed Interest Rates,1100,0
+5673b7d4-fa2f-4bcb-adc9-91eaa082c472,Conventional Commercial Bank,2016-11-18,2019-11-18,6.0,Floating Interest Rates,1095,46
+ae398f33-369e-42aa-a165-30c5cef698e1,Conventional Commercial Bank,2018-05-12,2018-11-11,6.0,Floating Interest Rates,183,0
+ae398f33-369e-42aa-a165-30c5cef698e1,Conventional Commercial Bank,2018-10-13,2019-04-12,6.0,Floating Interest Rates,181,0
+3ba85ff6-73ab-4842-834d-3db7aa7f2bfc,Conventional Rural Bank,2018-08-02,2020-02-02,21.0,Fixed Interest Rates,549,0
+3ba85ff6-73ab-4842-834d-3db7aa7f2bfc,Conventional Rural Bank,2017-01-27,2018-07-27,22.0,Fixed Interest Rates,546,5
+3ba85ff6-73ab-4842-834d-3db7aa7f2bfc,Conventional Rural Bank,2016-01-25,2017-01-25,22.0,Fixed Interest Rates,366,0
+9a64d8ae-7c91-43c7-bd25-89d48af64c99,Conventional Commercial Bank,2018-06-07,2021-06-07,26.0,Floating Interest Rates,1096,0
+9a64d8ae-7c91-43c7-bd25-89d48af64c99,Conventional Commercial Bank,2016-09-10,2018-09-10,6.0,Floating Interest Rates,730,0
+3267f596-d8eb-4946-bffb-45474a844f96,Financing Company,2018-08-23,2019-08-18,53.36,Fixed Interest Rates,360,0
+3267f596-d8eb-4946-bffb-45474a844f96,Conventional Commercial Bank,2018-10-29,2023-11-01,21.0,Floating Interest Rates,1829,0
+3267f596-d8eb-4946-bffb-45474a844f96,Financing Company,2018-08-23,2019-08-18,53.36,Fixed Interest Rates,360,0
+3267f596-d8eb-4946-bffb-45474a844f96,Conventional Commercial Bank,2018-07-21,2018-08-20,31.2,Fixed Interest Rates,30,0
+3267f596-d8eb-4946-bffb-45474a844f96,Conventional Commercial Bank,2018-05-24,2018-06-21,45.7,Fixed Interest Rates,28,0
+3267f596-d8eb-4946-bffb-45474a844f96,Conventional Commercial Bank,2012-08-27,2017-09-01,24.0,Fixed Interest Rates,1831,180
+3267f596-d8eb-4946-bffb-45474a844f96,Financing Company,2017-03-14,2017-04-13,0.0,Fixed Interest Rates,30,0
+3267f596-d8eb-4946-bffb-45474a844f96,Financing Company,2017-03-22,2017-04-21,0.0,Fixed Interest Rates,30,0
+3267f596-d8eb-4946-bffb-45474a844f96,Financing Company,2016-11-29,2016-12-29,0.0,Fixed Interest Rates,30,0
+3267f596-d8eb-4946-bffb-45474a844f96,Conventional Commercial Bank,2018-10-22,2018-11-21,44.8,Fixed Interest Rates,30,0
+561e3e33-297f-42ff-929c-13461b7dc5eb,Conventional Commercial Bank,2014-03-24,2015-09-24,7.0,Fixed Interest Rates,549,0
+54e1e53c-3b2c-478e-b7b9-7b339eb701fb,Conventional Commercial Bank,2018-05-31,2019-05-31,6.0,Floating Interest Rates,365,0
+54e1e53c-3b2c-478e-b7b9-7b339eb701fb,Conventional Commercial Bank,2017-11-02,2018-11-02,3.24,Fixed Interest Rates,365,0
+54e1e53c-3b2c-478e-b7b9-7b339eb701fb,Conventional Commercial Bank,2017-04-29,2018-04-29,3.24,Fixed Interest Rates,365,0
+54e1e53c-3b2c-478e-b7b9-7b339eb701fb,Conventional Commercial Bank,2016-08-15,2017-08-15,3.24,Fixed Interest Rates,365,0
+8865c170-7433-4132-a667-944051bd6b3f,Conventional Commercial Bank,2016-11-26,2017-11-26,6.0,Floating Interest Rates,365,0
+561e3e33-297f-42ff-929c-13461b7dc5eb,Conventional Commercial Bank,2010-09-03,2020-04-01,21.0,Floating Interest Rates,3498,29
+561e3e33-297f-42ff-929c-13461b7dc5eb,Conventional Commercial Bank,2010-04-16,2020-05-01,21.0,Fixed Interest Rates,3668,0
+561e3e33-297f-42ff-929c-13461b7dc5eb,Conventional Commercial Bank,2015-05-01,2021-05-01,24.0,Fixed Interest Rates,2192,1
+561e3e33-297f-42ff-929c-13461b7dc5eb,Conventional Commercial Bank,2007-04-05,2013-05-01,35.4,Floating Interest Rates,2218,0
+148fc8a4-48f0-416c-a3c2-5a6f062d169a,Conventional Commercial Bank,2018-04-09,2020-04-09,6.0,Fixed Interest Rates,731,0
+8865c170-7433-4132-a667-944051bd6b3f,Conventional Commercial Bank,2017-11-18,2018-11-18,6.0,Floating Interest Rates,365,0
+d6e0287c-86e1-41bb-be17-2b14c3bb451b,Conventional Commercial Bank,2018-09-02,2018-11-26,22.0,Fixed Interest Rates,85,0
+ae046e00-d149-4cb0-a0d0-735d7a2fcd41,Conventional Commercial Bank,2018-06-22,2019-06-22,6.0,Floating Interest Rates,365,0
+ae046e00-d149-4cb0-a0d0-735d7a2fcd41,Conventional Commercial Bank,2017-08-06,2018-08-06,3.19,Fixed Interest Rates,365,0
+ae046e00-d149-4cb0-a0d0-735d7a2fcd41,Conventional Commercial Bank,2016-09-05,2017-09-05,3.19,Fixed Interest Rates,365,0
+ae046e00-d149-4cb0-a0d0-735d7a2fcd41,Conventional Commercial Bank,2015-09-11,2016-09-11,3.71,Fixed Interest Rates,366,0
+ae046e00-d149-4cb0-a0d0-735d7a2fcd41,Conventional Commercial Bank,2013-07-15,2016-07-15,4.82,Fixed Interest Rates,1096,0
+fdb18d89-4094-4ebb-a48f-c98233cd1782,Conventional Commercial Bank,2017-09-10,2020-09-10,6.0,Floating Interest Rates,1096,0
+fdb18d89-4094-4ebb-a48f-c98233cd1782,Conventional Commercial Bank,2017-01-29,2017-08-15,3.28,Fixed Interest Rates,198,18
+d6e0287c-86e1-41bb-be17-2b14c3bb451b,Conventional Commercial Bank,2018-10-28,2019-01-07,12.0,Floating Interest Rates,71,0
+77a14776-8d4c-4673-adec-fce8926004c6,Conventional Commercial Bank,2017-02-18,2017-08-17,6.0,Fixed Interest Rates,180,0
+d6e0287c-86e1-41bb-be17-2b14c3bb451b,Conventional Commercial Bank,2018-08-19,2018-11-06,32.0,Fixed Interest Rates,79,0
+d6e0287c-86e1-41bb-be17-2b14c3bb451b,Conventional Commercial Bank,2018-07-21,2023-07-21,6.0,Floating Interest Rates,1826,0
+d6e0287c-86e1-41bb-be17-2b14c3bb451b,Conventional Commercial Bank,2018-05-28,2018-08-26,14.5,Fixed Interest Rates,90,0
+d6e0287c-86e1-41bb-be17-2b14c3bb451b,Conventional Commercial Bank,2018-04-23,2018-07-22,14.0,Fixed Interest Rates,90,0
+d6e0287c-86e1-41bb-be17-2b14c3bb451b,Conventional Commercial Bank,2018-10-25,2019-04-22,44.8,Fixed Interest Rates,179,0
+d6e0287c-86e1-41bb-be17-2b14c3bb451b,Conventional Commercial Bank,2018-11-01,2018-11-27,27.3,Fixed Interest Rates,26,0
+59f0b316-f724-4e0f-99f5-01402d83c999,Conventional Commercial Bank,2017-04-21,2017-10-21,3.47,Fixed Interest Rates,183,0
+77a14776-8d4c-4673-adec-fce8926004c6,Conventional Commercial Bank,2016-07-09,2017-01-07,6.0,Floating Interest Rates,182,0
+cec8ace1-d9d8-4982-b9a6-d61d3e850b61,Conventional Commercial Bank,2017-12-22,2023-01-01,21.0,Fixed Interest Rates,1836,0
+77a14776-8d4c-4673-adec-fce8926004c6,Conventional Commercial Bank,2015-12-20,2016-06-19,7.0,Floating Interest Rates,182,0
+35b84c2d-3aad-4bd0-bfb0-3ed3d5f61bdf,Conventional Commercial Bank,2015-05-01,2015-10-31,4.04,Fixed Interest Rates,183,0
+35b84c2d-3aad-4bd0-bfb0-3ed3d5f61bdf,Conventional Commercial Bank,2015-10-05,2016-04-05,4.04,Fixed Interest Rates,183,0
+31e83ed8-3689-469e-9280-233eb76a3421,Financing Company,2016-02-20,2020-01-20,14.24,Fixed Interest Rates,1430,0
+31e83ed8-3689-469e-9280-233eb76a3421,Conventional Commercial Bank,2018-06-16,2022-06-16,12.0,Floating Interest Rates,1461,0
+31e83ed8-3689-469e-9280-233eb76a3421,Conventional Commercial Bank,2016-02-22,2020-01-20,10.74,Fixed Interest Rates,1428,0
+31e83ed8-3689-469e-9280-233eb76a3421,Conventional Commercial Bank,2018-06-16,2023-03-16,12.0,Floating Interest Rates,1734,0
+31e83ed8-3689-469e-9280-233eb76a3421,Conventional Commercial Bank,2018-06-16,2023-06-16,12.0,Floating Interest Rates,1826,0
+31e83ed8-3689-469e-9280-233eb76a3421,Financing Company,2013-07-22,2016-06-22,24.99,Fixed Interest Rates,1066,0
+35b84c2d-3aad-4bd0-bfb0-3ed3d5f61bdf,Conventional Commercial Bank,2017-08-07,2019-08-07,3.14,Fixed Interest Rates,730,0
+35b84c2d-3aad-4bd0-bfb0-3ed3d5f61bdf,Conventional Commercial Bank,2016-07-04,2017-07-04,3.24,Fixed Interest Rates,365,0
+ad0a0db8-63e8-463f-b443-818fd6362af8,Conventional Commercial Bank,2016-09-29,2033-10-01,11.0,Floating Interest Rates,6211,185
+ad0a0db8-63e8-463f-b443-818fd6362af8,Conventional Commercial Bank,2016-09-29,2032-05-29,11.0,Floating Interest Rates,5721,187
+ad0a0db8-63e8-463f-b443-818fd6362af8,Conventional Commercial Bank,2015-08-08,2025-08-08,11.0,Floating Interest Rates,3653,0
+ad0a0db8-63e8-463f-b443-818fd6362af8,Conventional Commercial Bank,2010-04-15,2022-12-19,9.7,Floating Interest Rates,4631,440
+ad0a0db8-63e8-463f-b443-818fd6362af8,Financing Company,2008-05-20,2009-11-20,65.44,Fixed Interest Rates,549,2599
+ad0a0db8-63e8-463f-b443-818fd6362af8,Conventional Commercial Bank,2018-11-30,2021-08-30,12.0,Floating Interest Rates,1004,0
+be5d04d6-0227-4f47-b61c-acd21e9e2c90,Conventional Commercial Bank,2018-03-12,2019-03-12,6.0,Floating Interest Rates,365,0
+1c863b9c-576c-4578-8728-b37057866c7f,Conventional Commercial Bank,2018-10-05,2018-11-04,158.26,Fixed Interest Rates,30,0
+1c863b9c-576c-4578-8728-b37057866c7f,Financing Company,2018-07-14,2018-08-13,0.0,Fixed Interest Rates,30,111
+1c863b9c-576c-4578-8728-b37057866c7f,Conventional Commercial Bank,2018-09-06,2018-10-06,158.26,Fixed Interest Rates,30,0
+1c863b9c-576c-4578-8728-b37057866c7f,Financing Company,2018-07-14,2018-08-13,0.0,Fixed Interest Rates,30,50
+1c863b9c-576c-4578-8728-b37057866c7f,Conventional Commercial Bank,2018-08-19,2018-09-18,51.0,Fixed Interest Rates,30,0
+1c863b9c-576c-4578-8728-b37057866c7f,Conventional Commercial Bank,2018-07-26,2018-08-23,15.0,Fixed Interest Rates,28,0
+f2e8f2ff-d19a-4e99-9133-601430bc0151,Conventional Commercial Bank,2011-11-05,2015-11-05,14.4,Fixed Interest Rates,1461,0
+df2f9713-13d7-4e2d-b914-33570e18e7cf,Financing Company,2018-06-10,2022-05-10,11.26,Fixed Interest Rates,1430,0
+df2f9713-13d7-4e2d-b914-33570e18e7cf,Financing Company,2016-04-15,2020-03-19,9.79,Fixed Interest Rates,1434,0
+ef7829c8-7982-483b-9920-20dde7e1c458,Financing Company,2013-03-09,2017-03-02,20.45,Fixed Interest Rates,1454,0
+6fe0d910-f6e9-4b1b-975c-98c4a1ffbfb8,Financing Company,2010-07-11,2014-06-11,24.17,Fixed Interest Rates,1431,262
+6fe0d910-f6e9-4b1b-975c-98c4a1ffbfb8,Conventional Commercial Bank,2010-07-11,2014-06-11,13.5,Fixed Interest Rates,1431,262
+d0b0626d-f005-4d8d-9528-5ad088dde8b8,Conventional Commercial Bank,2018-03-16,2020-03-16,6.0,Floating Interest Rates,731,0
+e5c4a6bb-19be-419a-a8f9-56735a20cfbe,Conventional Commercial Bank,2015-07-23,2018-07-23,7.0,Floating Interest Rates,1096,0
+e5c4a6bb-19be-419a-a8f9-56735a20cfbe,Conventional Commercial Bank,2014-07-20,2016-07-20,14.4,Fixed Interest Rates,731,0
+29f4d10a-dc96-4a51-99d1-1f7a42e7cbba,Conventional Commercial Bank,2018-04-28,2019-04-28,8.0,Floating Interest Rates,365,5
+0ba3352a-bd8a-4670-a3d9-e158507c61d3,Conventional Commercial Bank,2015-11-01,2021-11-01,24.0,Fixed Interest Rates,2192,0
+0ba3352a-bd8a-4670-a3d9-e158507c61d3,Conventional Commercial Bank,2015-04-01,2021-04-01,24.0,Fixed Interest Rates,2192,0
+0ba3352a-bd8a-4670-a3d9-e158507c61d3,Conventional Commercial Bank,2017-06-01,2022-06-01,24.0,Fixed Interest Rates,1826,0
+9716cba8-446a-4aba-b319-ac489cd4f34f,Financing Company,2013-12-01,2017-12-02,16.67,Fixed Interest Rates,1462,0
+9716cba8-446a-4aba-b319-ac489cd4f34f,Conventional Commercial Bank,2013-12-01,2017-12-02,11.29,Fixed Interest Rates,1462,0
+9716cba8-446a-4aba-b319-ac489cd4f34f,Conventional Commercial Bank,2015-05-07,2018-05-07,12.75,Floating Interest Rates,1096,0
+9716cba8-446a-4aba-b319-ac489cd4f34f,Financing Company,2015-04-17,2018-04-17,26.0,Fixed Interest Rates,1096,75
+b824d05f-8c58-4b98-8b5e-3765671300c9,Financing Company,2007-05-22,2010-02-22,36.01,Fixed Interest Rates,1007,249
+b824d05f-8c58-4b98-8b5e-3765671300c9,Conventional Commercial Bank,2007-05-22,2010-02-22,12.49,Fixed Interest Rates,1007,249
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2018-10-18,2018-11-26,22.22,Fixed Interest Rates,39,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Financing Company,2018-10-18,2018-11-27,2.95,Fixed Interest Rates,40,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Financing Company,2018-09-21,2018-10-27,2.95,Fixed Interest Rates,36,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Financing Company,2018-09-16,2018-10-27,2.95,Fixed Interest Rates,41,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Financing Company,2018-09-23,2018-10-27,2.95,Fixed Interest Rates,34,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2018-09-23,2018-10-26,22.22,Fixed Interest Rates,33,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2018-03-01,2018-03-26,22.0,Fixed Interest Rates,25,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2018-09-21,2018-10-26,22.22,Fixed Interest Rates,35,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2018-09-16,2018-10-26,22.22,Fixed Interest Rates,40,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Financing Company,2018-08-18,2018-09-27,2.95,Fixed Interest Rates,40,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Financing Company,2018-08-22,2018-09-27,2.95,Fixed Interest Rates,36,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2018-08-18,2018-09-26,22.22,Fixed Interest Rates,39,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2018-08-22,2018-09-26,22.22,Fixed Interest Rates,35,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Financing Company,2018-07-31,2018-08-27,2.95,Fixed Interest Rates,27,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Financing Company,2018-07-20,2018-08-27,2.95,Fixed Interest Rates,38,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2018-07-20,2018-08-26,22.15,Fixed Interest Rates,37,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Financing Company,2018-02-26,2018-03-27,2.95,Fixed Interest Rates,29,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2018-07-31,2018-08-26,22.15,Fixed Interest Rates,26,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2018-06-23,2018-07-26,22.15,Fixed Interest Rates,33,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Financing Company,2018-06-23,2018-07-27,2.95,Fixed Interest Rates,34,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2018-04-17,2018-05-26,22.15,Fixed Interest Rates,39,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2017-12-03,2018-05-26,27.0,Fixed Interest Rates,174,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2018-04-17,2018-05-26,22.15,Fixed Interest Rates,39,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2017-12-03,2018-05-26,27.0,Fixed Interest Rates,174,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Financing Company,2017-12-03,2018-05-27,2.95,Fixed Interest Rates,175,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Financing Company,2017-12-03,2018-05-27,2.95,Fixed Interest Rates,175,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Financing Company,2018-04-17,2018-05-27,2.95,Fixed Interest Rates,40,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Financing Company,2018-04-17,2018-05-27,2.95,Fixed Interest Rates,40,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2018-03-23,2018-04-26,22.0,Fixed Interest Rates,34,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2018-03-23,2018-04-26,22.0,Fixed Interest Rates,34,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2018-03-23,2018-04-26,22.0,Fixed Interest Rates,34,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Financing Company,2018-03-23,2018-04-27,2.95,Fixed Interest Rates,35,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Financing Company,2018-03-23,2018-04-27,2.94,Fixed Interest Rates,35,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Financing Company,2018-03-23,2018-04-27,2.94,Fixed Interest Rates,35,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Financing Company,2017-12-18,2018-01-27,2.95,Fixed Interest Rates,40,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Financing Company,2017-12-30,2018-01-27,2.95,Fixed Interest Rates,28,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Financing Company,2017-12-29,2018-01-27,2.95,Fixed Interest Rates,29,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Financing Company,2017-12-20,2018-01-27,2.94,Fixed Interest Rates,38,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Financing Company,2017-12-29,2018-01-27,2.94,Fixed Interest Rates,29,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2017-12-18,2018-01-26,22.0,Fixed Interest Rates,39,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2017-12-20,2018-01-26,22.0,Fixed Interest Rates,37,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2017-12-30,2018-01-26,22.0,Fixed Interest Rates,27,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2017-12-29,2018-01-26,22.0,Fixed Interest Rates,28,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2017-12-29,2018-01-26,22.0,Fixed Interest Rates,28,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2013-02-15,2016-02-15,4.82,Fixed Interest Rates,1095,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2018-02-27,2018-03-26,22.0,Fixed Interest Rates,27,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Conventional Commercial Bank,2018-02-26,2018-03-26,22.0,Fixed Interest Rates,28,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Financing Company,2018-02-27,2018-03-27,2.95,Fixed Interest Rates,28,0
+196e25b9-bd4d-4a40-8289-fb7e56ffcdbb,Financing Company,2018-03-01,2018-03-27,2.95,Fixed Interest Rates,26,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Conventional Commercial Bank,2018-05-10,2019-10-26,44.86,Fixed Interest Rates,534,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Conventional Commercial Bank,2018-10-27,2019-10-06,58.95,Fixed Interest Rates,344,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Financing Company,2018-01-10,2019-10-27,2.95,Fixed Interest Rates,655,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Financing Company,2018-09-16,2018-10-27,2.95,Fixed Interest Rates,41,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Conventional Commercial Bank,2018-08-30,2018-11-27,27.3,Fixed Interest Rates,89,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Conventional Commercial Bank,2018-07-03,2019-06-26,40.92,Fixed Interest Rates,358,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Conventional Commercial Bank,2018-05-10,2019-04-26,40.92,Fixed Interest Rates,351,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Conventional Commercial Bank,2018-09-16,2018-10-26,22.22,Fixed Interest Rates,40,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Conventional Commercial Bank,2018-09-26,2018-10-26,22.22,Fixed Interest Rates,30,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Financing Company,2018-01-10,2018-12-27,2.95,Fixed Interest Rates,351,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Financing Company,2018-09-26,2018-10-27,2.95,Fixed Interest Rates,31,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Financing Company,2018-07-03,2019-06-27,2.5,Fixed Interest Rates,359,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Financing Company,2018-08-28,2018-09-27,2.95,Fixed Interest Rates,30,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Conventional Commercial Bank,2018-08-28,2018-09-26,22.22,Fixed Interest Rates,29,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Financing Company,2018-07-28,2018-08-27,2.95,Fixed Interest Rates,30,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Conventional Commercial Bank,2018-07-28,2018-08-26,22.15,Fixed Interest Rates,29,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Conventional Commercial Bank,2018-06-16,2018-07-26,22.15,Fixed Interest Rates,40,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Financing Company,2018-06-16,2018-07-27,2.95,Fixed Interest Rates,41,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Conventional Commercial Bank,2018-06-01,2018-06-26,22.15,Fixed Interest Rates,25,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Conventional Commercial Bank,2018-04-10,2018-06-26,24.2,Fixed Interest Rates,77,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Conventional Commercial Bank,2018-06-01,2018-06-26,22.15,Fixed Interest Rates,25,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Conventional Commercial Bank,2018-05-27,2018-06-26,22.15,Fixed Interest Rates,30,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Financing Company,2018-06-01,2018-06-27,2.95,Fixed Interest Rates,26,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Financing Company,2018-05-27,2018-06-27,2.95,Fixed Interest Rates,31,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Financing Company,2018-06-01,2018-06-27,2.95,Fixed Interest Rates,26,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Financing Company,2018-04-10,2018-06-27,2.95,Fixed Interest Rates,78,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Financing Company,2017-07-10,2018-06-27,0.0,Fixed Interest Rates,352,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Conventional Commercial Bank,2018-04-26,2018-05-26,22.15,Fixed Interest Rates,30,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Financing Company,2018-04-26,2018-05-27,2.95,Fixed Interest Rates,31,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Financing Company,2017-08-20,2018-02-27,2.95,Fixed Interest Rates,191,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Financing Company,2017-05-04,2017-07-27,2.95,Fixed Interest Rates,84,0
+68783997-e8f0-49ad-a83c-dcd9b75a8acb,Conventional Commercial Bank,2013-05-10,2026-05-10,15.0,Floating Interest Rates,4748,0
+784431ae-cfe5-4e71-956c-ce796982111b,Conventional Commercial Bank,2018-07-14,2020-01-14,6.0,Floating Interest Rates,549,0
+784431ae-cfe5-4e71-956c-ce796982111b,Conventional Commercial Bank,2017-12-24,2019-12-24,6.0,Floating Interest Rates,730,0
+073f6716-f57f-4dd0-8d04-f1b7b37d0311,Financing Company,2016-07-18,2018-05-18,37.93,Fixed Interest Rates,669,116
+073f6716-f57f-4dd0-8d04-f1b7b37d0311,Conventional Commercial Bank,2014-07-07,2018-05-18,9.25,Fixed Interest Rates,1411,115
+073f6716-f57f-4dd0-8d04-f1b7b37d0311,Conventional Commercial Bank,2016-05-17,2018-05-17,12.0,Fixed Interest Rates,730,0
+078fe38d-e982-47ba-984a-22cdb29be463,Conventional Commercial Bank,2018-05-11,2018-11-06,35.55,Fixed Interest Rates,179,0
+078fe38d-e982-47ba-984a-22cdb29be463,Financing Company,2018-02-15,2018-05-07,2.95,Fixed Interest Rates,81,0
+078fe38d-e982-47ba-984a-22cdb29be463,Financing Company,2018-04-13,2018-05-07,2.95,Fixed Interest Rates,24,0
+078fe38d-e982-47ba-984a-22cdb29be463,Financing Company,2018-02-07,2018-05-07,2.95,Fixed Interest Rates,89,0
+078fe38d-e982-47ba-984a-22cdb29be463,Conventional Commercial Bank,2018-02-07,2018-05-06,24.5,Fixed Interest Rates,88,0
+078fe38d-e982-47ba-984a-22cdb29be463,Conventional Commercial Bank,2018-04-13,2018-05-06,22.15,Fixed Interest Rates,23,0
+078fe38d-e982-47ba-984a-22cdb29be463,Financing Company,2017-07-10,2017-10-07,2.94,Fixed Interest Rates,89,0
+078fe38d-e982-47ba-984a-22cdb29be463,Conventional Commercial Bank,2018-02-15,2018-05-06,24.5,Fixed Interest Rates,80,0
+078fe38d-e982-47ba-984a-22cdb29be463,Conventional Commercial Bank,2017-11-27,2018-03-06,35.2,Fixed Interest Rates,99,0
+078fe38d-e982-47ba-984a-22cdb29be463,Financing Company,2017-08-25,2017-11-07,2.94,Fixed Interest Rates,74,0
+078fe38d-e982-47ba-984a-22cdb29be463,Financing Company,2017-10-10,2017-11-07,2.94,Fixed Interest Rates,28,0
+078fe38d-e982-47ba-984a-22cdb29be463,Conventional Commercial Bank,2017-10-10,2017-11-06,22.0,Fixed Interest Rates,27,0
+078fe38d-e982-47ba-984a-22cdb29be463,Conventional Commercial Bank,2017-08-25,2017-11-06,24.5,Fixed Interest Rates,73,0
+078fe38d-e982-47ba-984a-22cdb29be463,Financing Company,2017-05-03,2017-08-07,2.95,Fixed Interest Rates,96,0
+078fe38d-e982-47ba-984a-22cdb29be463,Financing Company,2017-02-16,2017-05-07,2.94,Fixed Interest Rates,80,0
+078fe38d-e982-47ba-984a-22cdb29be463,Financing Company,2017-01-04,2017-04-06,2.95,Fixed Interest Rates,92,0
+078fe38d-e982-47ba-984a-22cdb29be463,Financing Company,2016-12-15,2017-02-06,2.95,Fixed Interest Rates,53,0
+3d17dd2b-4b5f-4235-96ae-64141c49456e,Conventional Commercial Bank,2018-06-10,2032-11-08,5.0,Floating Interest Rates,5265,86
+3d17dd2b-4b5f-4235-96ae-64141c49456e,Financing Company,2014-06-06,2018-06-06,20.0,Fixed Interest Rates,1461,0
+aec0f7a3-b572-44bc-aa34-fc40944ce6c9,Financing Company,2018-01-06,2018-02-11,0.21,Fixed Interest Rates,36,0
+aec0f7a3-b572-44bc-aa34-fc40944ce6c9,Conventional Commercial Bank,2016-12-15,2017-01-12,18.0,Fixed Interest Rates,28,49
+4974e6bf-eda1-402a-b340-0100a9f0b29d,Conventional Commercial Bank,2017-08-14,2020-08-14,9.6,Fixed Interest Rates,1096,0
+4974e6bf-eda1-402a-b340-0100a9f0b29d,Conventional Commercial Bank,2016-08-07,2019-08-07,26.0,Floating Interest Rates,1095,0
+4974e6bf-eda1-402a-b340-0100a9f0b29d,Conventional Commercial Bank,2015-09-07,2018-09-07,7.0,Floating Interest Rates,1096,0
+379ab9f5-8478-486e-8d2e-b51522cf961d,Financing Company,2018-02-04,2018-03-06,0.0,Fixed Interest Rates,30,0
+4974e6bf-eda1-402a-b340-0100a9f0b29d,Conventional Commercial Bank,2016-05-06,2019-05-06,15.0,Fixed Interest Rates,1095,0
+4974e6bf-eda1-402a-b340-0100a9f0b29d,Conventional Commercial Bank,2015-10-05,2016-05-05,14.4,Fixed Interest Rates,213,0
+379ab9f5-8478-486e-8d2e-b51522cf961d,Financing Company,2018-09-09,2018-10-09,0.0,Fixed Interest Rates,30,24
+379ab9f5-8478-486e-8d2e-b51522cf961d,Financing Company,2016-07-14,2021-07-11,17.43,Fixed Interest Rates,1823,0
+379ab9f5-8478-486e-8d2e-b51522cf961d,Conventional Commercial Bank,2016-10-13,2021-07-11,7.0,Fixed Interest Rates,1732,0
+379ab9f5-8478-486e-8d2e-b51522cf961d,Financing Company,2018-09-09,2018-10-09,0.0,Fixed Interest Rates,30,0
+379ab9f5-8478-486e-8d2e-b51522cf961d,Conventional Commercial Bank,2018-05-31,2018-08-31,13.0,Fixed Interest Rates,92,2
+379ab9f5-8478-486e-8d2e-b51522cf961d,Financing Company,2018-01-27,2018-02-26,0.0,Fixed Interest Rates,30,0
+379ab9f5-8478-486e-8d2e-b51522cf961d,Financing Company,2018-01-27,2018-02-26,0.0,Fixed Interest Rates,30,0
+379ab9f5-8478-486e-8d2e-b51522cf961d,Financing Company,2017-12-28,2018-01-27,0.0,Fixed Interest Rates,30,0
+379ab9f5-8478-486e-8d2e-b51522cf961d,Financing Company,2017-12-23,2018-01-22,0.0,Fixed Interest Rates,30,0
+379ab9f5-8478-486e-8d2e-b51522cf961d,Financing Company,2017-10-08,2017-11-07,0.0,Fixed Interest Rates,30,0
+379ab9f5-8478-486e-8d2e-b51522cf961d,Financing Company,2017-04-22,2017-05-22,0.0,Fixed Interest Rates,30,0
+379ab9f5-8478-486e-8d2e-b51522cf961d,Financing Company,2016-12-30,2017-01-29,0.0,Fixed Interest Rates,30,0
+379ab9f5-8478-486e-8d2e-b51522cf961d,Financing Company,2016-10-16,2016-11-15,0.0,Fixed Interest Rates,30,0
+11bbc137-a527-4824-abb8-fdf2675648ce,Conventional Commercial Bank,2017-04-16,2019-04-16,6.0,Floating Interest Rates,730,0
+11bbc137-a527-4824-abb8-fdf2675648ce,Conventional Commercial Bank,2014-07-20,2018-01-20,3.72,Fixed Interest Rates,1280,0
+581e1806-0f49-410c-b20c-8863e8a19cca,Conventional Commercial Bank,2013-03-02,2017-03-02,20.75,Fixed Interest Rates,1461,61
+a0916a24-1eae-4acb-b97c-8deb2d373af6,Conventional Commercial Bank,2018-03-06,2019-03-06,6.0,Floating Interest Rates,365,0
+a0916a24-1eae-4acb-b97c-8deb2d373af6,Conventional Commercial Bank,2017-02-27,2018-02-27,3.19,Fixed Interest Rates,365,0
+a0916a24-1eae-4acb-b97c-8deb2d373af6,Conventional Commercial Bank,2016-02-22,2017-02-22,3.19,Fixed Interest Rates,366,0
+a0916a24-1eae-4acb-b97c-8deb2d373af6,Conventional Commercial Bank,2015-02-20,2016-02-20,3.71,Fixed Interest Rates,365,0
+1ae0e8e3-1f1d-419a-a885-2f99fe274f17,Conventional Rural Bank,2018-01-08,2020-01-08,18.0,Fixed Interest Rates,730,116
+1ae0e8e3-1f1d-419a-a885-2f99fe274f17,Financing Company,2013-12-06,2015-11-06,24.0,Fixed Interest Rates,700,88
+1ae0e8e3-1f1d-419a-a885-2f99fe274f17,Conventional Commercial Bank,2013-12-05,2015-06-03,10.0,Fixed Interest Rates,545,59
+1ae0e8e3-1f1d-419a-a885-2f99fe274f17,Financing Company,2013-12-03,2015-06-03,33.26,Fixed Interest Rates,547,59
+a594d7d9-f1f1-47fd-a981-8019e8da317f,Conventional Commercial Bank,2018-09-20,2019-03-20,36.0,Floating Interest Rates,181,0
+a594d7d9-f1f1-47fd-a981-8019e8da317f,Conventional Commercial Bank,2016-09-09,2017-09-09,3.19,Fixed Interest Rates,365,0
+a594d7d9-f1f1-47fd-a981-8019e8da317f,Conventional Commercial Bank,2016-02-26,2017-02-26,3.24,Fixed Interest Rates,366,0
+a594d7d9-f1f1-47fd-a981-8019e8da317f,Conventional Commercial Bank,2015-02-27,2016-02-27,3.71,Fixed Interest Rates,365,0
+65119d87-4ad6-41c9-9d36-95267dd26115,Conventional Commercial Bank,2018-10-19,2033-10-18,0.0,Fixed Interest Rates,5478,0
+65119d87-4ad6-41c9-9d36-95267dd26115,Conventional Commercial Bank,2017-06-19,2020-06-19,6.0,Floating Interest Rates,1096,0
+65119d87-4ad6-41c9-9d36-95267dd26115,Conventional Commercial Bank,2018-06-28,2018-07-13,21.0,Fixed Interest Rates,15,0
+65119d87-4ad6-41c9-9d36-95267dd26115,Conventional Commercial Bank,2018-04-09,2018-06-09,15.0,Fixed Interest Rates,61,0
+65119d87-4ad6-41c9-9d36-95267dd26115,Conventional Commercial Bank,2018-03-25,2018-06-25,15.0,Fixed Interest Rates,92,0
+65119d87-4ad6-41c9-9d36-95267dd26115,Conventional Commercial Bank,2016-06-06,2018-06-06,6.0,Floating Interest Rates,730,0
+043452ba-8836-4da0-85b7-702db2767e65,Conventional Commercial Bank,2018-05-14,2019-05-14,6.0,Floating Interest Rates,365,0
+043452ba-8836-4da0-85b7-702db2767e65,Conventional Commercial Bank,2017-05-05,2018-05-05,3.19,Fixed Interest Rates,365,0
+87e28fca-05d1-4e5c-85b7-7764f71af2d5,Conventional Commercial Bank,2016-12-19,2017-12-19,3.19,Fixed Interest Rates,365,0
+87e28fca-05d1-4e5c-85b7-7764f71af2d5,Conventional Commercial Bank,2016-01-10,2017-01-10,3.19,Fixed Interest Rates,366,0
+87e28fca-05d1-4e5c-85b7-7764f71af2d5,Conventional Commercial Bank,2015-01-23,2016-01-23,3.71,Fixed Interest Rates,365,0
+c7fc920c-a467-48cd-a285-4525b90305b5,Financing Company,2018-05-14,2019-05-14,39.52,Fixed Interest Rates,365,0
+c7fc920c-a467-48cd-a285-4525b90305b5,Financing Company,2015-06-27,2018-05-27,28.05,Fixed Interest Rates,1065,152
+c7fc920c-a467-48cd-a285-4525b90305b5,Conventional Commercial Bank,2016-03-07,2018-06-03,9.15,Fixed Interest Rates,818,152
+c7fc920c-a467-48cd-a285-4525b90305b5,Conventional Commercial Bank,2014-08-25,2019-02-25,3.72,Fixed Interest Rates,1645,69
+c7fc920c-a467-48cd-a285-4525b90305b5,Conventional Commercial Bank,2018-11-06,2019-02-03,35.0,Fixed Interest Rates,89,0
+c7fc920c-a467-48cd-a285-4525b90305b5,Conventional Commercial Bank,2018-11-11,2018-12-11,51.0,Fixed Interest Rates,30,0
+c7fc920c-a467-48cd-a285-4525b90305b5,Conventional Commercial Bank,2018-11-08,2019-08-03,35.0,Fixed Interest Rates,268,0
+e8a36c69-3046-4665-8252-b622c01e111b,Conventional Commercial Bank,2017-10-05,2020-10-05,6.0,Floating Interest Rates,1096,0
+e8a36c69-3046-4665-8252-b622c01e111b,Conventional Commercial Bank,2018-07-22,2018-08-22,28.0,Floating Interest Rates,31,0
+e8a36c69-3046-4665-8252-b622c01e111b,Conventional Commercial Bank,2016-10-10,2020-10-10,6.0,Floating Interest Rates,1461,0
+e8a36c69-3046-4665-8252-b622c01e111b,Conventional Commercial Bank,2015-07-03,2018-07-03,3.72,Fixed Interest Rates,1096,0
+e8a36c69-3046-4665-8252-b622c01e111b,Conventional Commercial Bank,2014-05-23,2016-05-23,3.73,Fixed Interest Rates,731,0
+280ec84f-f755-4914-ac67-6b51887f0f1a,Conventional Commercial Bank,2015-01-23,2015-07-23,4.04,Fixed Interest Rates,181,0
+ac088805-c1d1-4693-903f-e31834af4e18,Conventional Commercial Bank,2017-10-09,2020-10-08,6.0,Fixed Interest Rates,1095,0
+ac088805-c1d1-4693-903f-e31834af4e18,Conventional Commercial Bank,2018-01-19,2018-03-19,14.5,Fixed Interest Rates,59,42
+ac088805-c1d1-4693-903f-e31834af4e18,Conventional Commercial Bank,2018-01-20,2018-02-03,16.0,Fixed Interest Rates,14,0
+ac088805-c1d1-4693-903f-e31834af4e18,Financing Company,2014-10-23,2017-10-23,31.13,Fixed Interest Rates,1096,0
+ac088805-c1d1-4693-903f-e31834af4e18,Financing Company,2014-11-04,2015-11-04,29.88,Fixed Interest Rates,365,0
+0c0696a1-2a19-4b2c-aea9-af598f172338,Financing Company,2013-08-23,2016-07-23,22.1,Fixed Interest Rates,1065,1228
+0c0696a1-2a19-4b2c-aea9-af598f172338,Conventional Commercial Bank,2013-03-24,2016-03-24,24.09,Fixed Interest Rates,1096,210
+79bfeb5e-cb31-48f0-ae7e-0566ea86d775,Conventional Commercial Bank,2018-04-12,2021-04-29,6.0,Floating Interest Rates,1113,0
+00a8fe11-bac6-4969-82ca-b255617f6a48,Conventional Commercial Bank,2018-06-28,2019-01-06,28.55,Fixed Interest Rates,192,0
+00a8fe11-bac6-4969-82ca-b255617f6a48,Financing Company,2018-06-28,2019-01-07,2.95,Fixed Interest Rates,193,0
+00a8fe11-bac6-4969-82ca-b255617f6a48,Financing Company,2018-06-28,2019-01-07,2.95,Fixed Interest Rates,193,0
+00a8fe11-bac6-4969-82ca-b255617f6a48,Financing Company,2018-06-26,2018-10-07,2.95,Fixed Interest Rates,103,0
+00a8fe11-bac6-4969-82ca-b255617f6a48,Conventional Commercial Bank,2018-06-26,2018-10-06,24.2,Fixed Interest Rates,102,0
+00a8fe11-bac6-4969-82ca-b255617f6a48,Conventional Commercial Bank,2018-06-28,2019-01-06,28.55,Fixed Interest Rates,192,0
+00a8fe11-bac6-4969-82ca-b255617f6a48,Conventional Commercial Bank,2018-02-28,2018-09-06,27.0,Fixed Interest Rates,190,0
+00a8fe11-bac6-4969-82ca-b255617f6a48,Conventional Commercial Bank,2018-02-28,2018-09-06,27.0,Fixed Interest Rates,190,0
+00a8fe11-bac6-4969-82ca-b255617f6a48,Conventional Commercial Bank,2018-02-28,2018-09-06,27.0,Fixed Interest Rates,190,0
+00a8fe11-bac6-4969-82ca-b255617f6a48,Financing Company,2018-02-28,2018-09-07,2.95,Fixed Interest Rates,191,0
+00a8fe11-bac6-4969-82ca-b255617f6a48,Financing Company,2018-02-28,2018-09-07,2.95,Fixed Interest Rates,191,0
+00a8fe11-bac6-4969-82ca-b255617f6a48,Financing Company,2018-02-28,2018-09-07,2.95,Fixed Interest Rates,191,0
+00a8fe11-bac6-4969-82ca-b255617f6a48,Conventional Commercial Bank,2018-04-18,2018-07-06,24.2,Fixed Interest Rates,79,0
+00a8fe11-bac6-4969-82ca-b255617f6a48,Financing Company,2018-04-18,2018-07-07,2.95,Fixed Interest Rates,80,0
+00a8fe11-bac6-4969-82ca-b255617f6a48,Conventional Commercial Bank,2017-11-14,2018-05-06,27.0,Fixed Interest Rates,173,0
+00a8fe11-bac6-4969-82ca-b255617f6a48,Conventional Commercial Bank,2018-01-25,2018-04-07,21.0,Fixed Interest Rates,72,0
+00a8fe11-bac6-4969-82ca-b255617f6a48,Financing Company,2017-11-14,2018-05-07,2.95,Fixed Interest Rates,174,0
+00a8fe11-bac6-4969-82ca-b255617f6a48,Financing Company,2017-04-05,2017-10-07,2.95,Fixed Interest Rates,185,0
+00a8fe11-bac6-4969-82ca-b255617f6a48,Financing Company,2017-04-03,2017-10-07,2.95,Fixed Interest Rates,187,0
+00a8fe11-bac6-4969-82ca-b255617f6a48,Financing Company,2017-06-13,2017-09-07,2.94,Fixed Interest Rates,86,0
+bae03480-ce51-4d05-9b29-e3d05bf76352,Conventional Commercial Bank,2018-02-23,2020-02-23,6.0,Floating Interest Rates,730,0
+331533aa-0620-4342-a521-73a1d2b8d872,Conventional Commercial Bank,2017-09-04,2020-09-04,6.0,Floating Interest Rates,1096,0
+eed56403-77cf-4fce-90e8-751c43d57e20,Financing Company,2018-08-24,2019-08-27,2.95,Fixed Interest Rates,368,0
+eed56403-77cf-4fce-90e8-751c43d57e20,Financing Company,2018-07-04,2019-11-27,2.95,Fixed Interest Rates,511,0
+eed56403-77cf-4fce-90e8-751c43d57e20,Financing Company,2018-07-25,2019-07-27,2.95,Fixed Interest Rates,367,0
+eed56403-77cf-4fce-90e8-751c43d57e20,Financing Company,2018-08-24,2019-08-27,2.95,Fixed Interest Rates,368,0
+eed56403-77cf-4fce-90e8-751c43d57e20,Financing Company,2018-08-24,2019-08-27,2.95,Fixed Interest Rates,368,0
+eed56403-77cf-4fce-90e8-751c43d57e20,Financing Company,2018-09-28,2018-10-27,2.95,Fixed Interest Rates,29,0
+eed56403-77cf-4fce-90e8-751c43d57e20,Financing Company,2018-08-02,2019-07-27,2.95,Fixed Interest Rates,359,0
+eed56403-77cf-4fce-90e8-751c43d57e20,Financing Company,2018-07-24,2019-07-27,2.95,Fixed Interest Rates,368,0
+eed56403-77cf-4fce-90e8-751c43d57e20,Financing Company,2018-07-22,2019-07-27,2.95,Fixed Interest Rates,370,0
+eed56403-77cf-4fce-90e8-751c43d57e20,Financing Company,2018-07-05,2019-06-27,2.95,Fixed Interest Rates,357,0
+eed56403-77cf-4fce-90e8-751c43d57e20,Financing Company,2018-07-23,2019-07-27,2.95,Fixed Interest Rates,369,0
+eed56403-77cf-4fce-90e8-751c43d57e20,Financing Company,2018-07-23,2019-07-27,2.95,Fixed Interest Rates,369,0
+eed56403-77cf-4fce-90e8-751c43d57e20,Financing Company,2018-07-04,2019-06-27,2.95,Fixed Interest Rates,358,0
+eed56403-77cf-4fce-90e8-751c43d57e20,Financing Company,2018-09-25,2019-09-27,2.95,Fixed Interest Rates,367,0
+eed56403-77cf-4fce-90e8-751c43d57e20,Financing Company,2018-07-04,2019-06-27,2.95,Fixed Interest Rates,358,0
+eed56403-77cf-4fce-90e8-751c43d57e20,Financing Company,2018-07-25,2019-07-27,2.95,Fixed Interest Rates,367,0
+eed56403-77cf-4fce-90e8-751c43d57e20,Financing Company,2018-07-29,2019-07-27,2.95,Fixed Interest Rates,363,0
+eed56403-77cf-4fce-90e8-751c43d57e20,Financing Company,2018-07-25,2019-07-27,2.95,Fixed Interest Rates,367,0
+eed56403-77cf-4fce-90e8-751c43d57e20,Financing Company,2018-08-26,2019-08-27,2.95,Fixed Interest Rates,366,0
+eed56403-77cf-4fce-90e8-751c43d57e20,Financing Company,2018-07-08,2019-06-27,2.95,Fixed Interest Rates,354,0
+eed56403-77cf-4fce-90e8-751c43d57e20,Financing Company,2018-07-01,2018-07-27,2.95,Fixed Interest Rates,26,0
+28454060-0333-4402-be26-3a9812aafd44,Conventional Commercial Bank,2018-03-30,2021-03-30,6.0,Floating Interest Rates,1096,0
+28454060-0333-4402-be26-3a9812aafd44,Conventional Commercial Bank,2015-03-27,2018-03-27,15.0,Fixed Interest Rates,1096,6
+486ceeb5-c8a1-4f6c-8760-2b2c3b355203,Conventional Rural Bank,2017-03-26,2020-03-26,21.0,Fixed Interest Rates,1096,0
+80bde884-2f1e-4419-a8e3-e3edc691fcea,Conventional Commercial Bank,2018-10-01,2019-10-01,6.0,Floating Interest Rates,365,0
+80bde884-2f1e-4419-a8e3-e3edc691fcea,Conventional Commercial Bank,2018-03-30,2018-09-30,6.0,Floating Interest Rates,184,0
+80bde884-2f1e-4419-a8e3-e3edc691fcea,Conventional Commercial Bank,2016-11-09,2017-11-09,3.19,Fixed Interest Rates,365,0
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Financing Company,2013-01-17,2014-01-05,62.82,Fixed Interest Rates,353,267
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Conventional Commercial Bank,2018-05-02,2019-07-12,40.92,Fixed Interest Rates,436,0
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Financing Company,2017-09-07,2018-09-07,60.79,Fixed Interest Rates,365,86
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Conventional Commercial Bank,2017-12-24,2018-06-12,27.0,Fixed Interest Rates,170,0
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Conventional Commercial Bank,2017-12-18,2018-06-12,27.0,Fixed Interest Rates,176,0
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Financing Company,2018-05-02,2019-07-13,2.95,Fixed Interest Rates,437,0
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Financing Company,2018-07-13,2019-07-13,2.95,Fixed Interest Rates,365,0
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Conventional Commercial Bank,2018-07-31,2019-07-12,40.92,Fixed Interest Rates,346,0
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Conventional Commercial Bank,2018-05-02,2018-11-12,28.55,Fixed Interest Rates,194,0
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Conventional Commercial Bank,2018-05-02,2019-05-12,40.92,Fixed Interest Rates,375,0
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Conventional Commercial Bank,2018-07-17,2019-01-12,28.55,Fixed Interest Rates,179,0
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Financing Company,2018-07-17,2019-01-13,2.95,Fixed Interest Rates,180,0
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Financing Company,2018-07-31,2019-07-13,2.95,Fixed Interest Rates,347,0
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Financing Company,2018-05-02,2018-11-13,2.95,Fixed Interest Rates,195,0
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Financing Company,2018-07-13,2019-07-13,2.95,Fixed Interest Rates,365,0
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Financing Company,2018-05-02,2019-05-13,2.95,Fixed Interest Rates,376,0
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Financing Company,2018-01-02,2018-07-13,2.95,Fixed Interest Rates,192,0
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Conventional Commercial Bank,2018-01-02,2018-07-12,27.0,Fixed Interest Rates,191,0
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Financing Company,2017-12-24,2018-06-13,2.95,Fixed Interest Rates,171,0
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Financing Company,2017-12-15,2018-06-13,2.95,Fixed Interest Rates,180,0
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Financing Company,2017-12-18,2018-06-13,2.95,Fixed Interest Rates,177,0
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Conventional Commercial Bank,2017-12-15,2018-06-12,27.0,Fixed Interest Rates,179,0
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Financing Company,2015-07-25,2016-06-25,68.43,Fixed Interest Rates,336,7
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Conventional Commercial Bank,2015-08-01,2016-07-25,14.0,Floating Interest Rates,359,0
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Financing Company,2015-01-25,2016-01-25,79.85,Fixed Interest Rates,365,0
+f090c3b1-5220-4a8d-b06b-2027d57ea2b6,Conventional Commercial Bank,2015-01-26,2016-01-25,13.5,Floating Interest Rates,364,0
+341bfbd2-b0b3-4c04-9c77-0e7fd94af2a3,Conventional Commercial Bank,2018-05-22,2018-07-22,14.5,Fixed Interest Rates,61,41
+341bfbd2-b0b3-4c04-9c77-0e7fd94af2a3,Conventional Commercial Bank,2018-05-24,2018-06-21,15.0,Fixed Interest Rates,28,0
+341bfbd2-b0b3-4c04-9c77-0e7fd94af2a3,Financing Company,2018-05-23,2018-06-26,0.16,Fixed Interest Rates,34,0
+341bfbd2-b0b3-4c04-9c77-0e7fd94af2a3,Financing Company,2018-05-22,2018-06-26,0.0,Fixed Interest Rates,35,0
+341bfbd2-b0b3-4c04-9c77-0e7fd94af2a3,Financing Company,2018-05-23,2018-06-26,0.12,Fixed Interest Rates,34,0
+341bfbd2-b0b3-4c04-9c77-0e7fd94af2a3,Financing Company,2018-05-23,2018-06-26,0.18,Fixed Interest Rates,34,0
+341bfbd2-b0b3-4c04-9c77-0e7fd94af2a3,Financing Company,2018-05-23,2018-06-26,0.12,Fixed Interest Rates,34,0
+341bfbd2-b0b3-4c04-9c77-0e7fd94af2a3,Financing Company,2018-04-26,2018-05-26,0.12,Fixed Interest Rates,30,0
+8ae4f19f-bf67-42a3-812e-546e455d3c59,Conventional Commercial Bank,2017-09-04,2021-09-04,3.14,Fixed Interest Rates,1461,0
+70a62bb5-4d56-42e6-983d-03341b05329d,Conventional Commercial Bank,2017-09-03,2020-09-03,26.0,Floating Interest Rates,1096,0
+9e9d35ce-6276-4cea-8764-21cf04c080e6,Conventional Commercial Bank,2013-06-09,2017-06-09,14.4,Fixed Interest Rates,1461,1727
+4e42cff5-ca67-4d5f-8c91-48d6999ccc13,Conventional Commercial Bank,2018-01-04,2020-02-04,8.0,Fixed Interest Rates,761,0
+4e42cff5-ca67-4d5f-8c91-48d6999ccc13,Financing Company,2017-10-20,2020-09-20,18.91,Fixed Interest Rates,1066,0
+4e42cff5-ca67-4d5f-8c91-48d6999ccc13,Financing Company,2017-03-04,2020-02-04,25.37,Fixed Interest Rates,1067,0
+4e42cff5-ca67-4d5f-8c91-48d6999ccc13,Financing Company,2017-05-18,2018-05-18,41.19,Fixed Interest Rates,365,0
+4e42cff5-ca67-4d5f-8c91-48d6999ccc13,Conventional Commercial Bank,2015-08-21,2018-07-20,12.5,Fixed Interest Rates,1064,0
+4e42cff5-ca67-4d5f-8c91-48d6999ccc13,Financing Company,2015-08-20,2018-07-20,13.25,Fixed Interest Rates,1065,0
+4e42cff5-ca67-4d5f-8c91-48d6999ccc13,Financing Company,2014-07-15,2017-06-15,24.66,Fixed Interest Rates,1066,0
+4e42cff5-ca67-4d5f-8c91-48d6999ccc13,Conventional Commercial Bank,2016-10-28,2017-04-27,6.0,Fixed Interest Rates,181,0
+4e42cff5-ca67-4d5f-8c91-48d6999ccc13,Conventional Commercial Bank,2016-03-19,2016-09-18,6.0,Floating Interest Rates,183,0
+4e42cff5-ca67-4d5f-8c91-48d6999ccc13,Conventional Commercial Bank,2015-08-22,2016-02-21,7.0,Floating Interest Rates,183,0
+fd9bfe14-bb7c-437d-bd3a-3ce2bc12e3aa,Conventional Commercial Bank,2016-11-18,2018-11-18,6.0,Floating Interest Rates,730,137
+fd9bfe14-bb7c-437d-bd3a-3ce2bc12e3aa,Financing Company,2016-07-14,2017-08-14,44.9,Fixed Interest Rates,396,50
+fd9bfe14-bb7c-437d-bd3a-3ce2bc12e3aa,Financing Company,2015-08-09,2016-08-09,45.84,Fixed Interest Rates,366,0
+f84a5442-c50e-4829-bca7-3bdd43f95040,Conventional Rural Bank,2016-07-01,2017-07-01,9.0,Fixed Interest Rates,365,30
+f84a5442-c50e-4829-bca7-3bdd43f95040,Conventional Rural Bank,2015-08-28,2016-08-28,9.0,Fixed Interest Rates,366,30
+f84a5442-c50e-4829-bca7-3bdd43f95040,Conventional Commercial Bank,2015-05-01,2015-10-31,14.4,Fixed Interest Rates,183,0
+f84a5442-c50e-4829-bca7-3bdd43f95040,Conventional Rural Bank,2014-11-28,2015-11-28,15.0,Fixed Interest Rates,365,30
+f84a5442-c50e-4829-bca7-3bdd43f95040,Conventional Commercial Bank,2018-10-18,2020-04-17,6.0,Floating Interest Rates,547,0
+f5751bbf-f961-4673-bee1-8cdf88d6d475,Conventional Commercial Bank,2017-05-29,2022-05-29,19.75,Floating Interest Rates,1826,0
+f5751bbf-f961-4673-bee1-8cdf88d6d475,Conventional Commercial Bank,2015-12-27,2018-12-27,12.6,Fixed Interest Rates,1096,0
+f5751bbf-f961-4673-bee1-8cdf88d6d475,Conventional Commercial Bank,2015-12-27,2018-12-27,12.6,Fixed Interest Rates,1096,0
+f5751bbf-f961-4673-bee1-8cdf88d6d475,Conventional Commercial Bank,2015-11-05,2016-05-05,14.4,Fixed Interest Rates,182,0
+deea1a33-4d0d-4aa4-b6ed-0088d4566d81,Conventional Commercial Bank,2016-07-17,2019-07-17,6.0,Floating Interest Rates,1095,0
+5777f684-ad49-4618-886a-821ae417b032,Conventional Commercial Bank,2018-05-23,2018-11-06,28.55,Fixed Interest Rates,167,0
+5777f684-ad49-4618-886a-821ae417b032,Conventional Commercial Bank,2018-08-11,2018-11-06,31.26,Fixed Interest Rates,87,0
+5777f684-ad49-4618-886a-821ae417b032,Financing Company,2018-08-11,2018-11-07,2.95,Fixed Interest Rates,88,0
+5777f684-ad49-4618-886a-821ae417b032,Financing Company,2018-05-23,2018-11-07,2.95,Fixed Interest Rates,168,0
+5777f684-ad49-4618-886a-821ae417b032,Conventional Commercial Bank,2018-08-12,2018-11-07,27.3,Fixed Interest Rates,87,0
+5777f684-ad49-4618-886a-821ae417b032,Conventional Commercial Bank,2018-05-25,2018-11-06,28.55,Fixed Interest Rates,165,0
+5777f684-ad49-4618-886a-821ae417b032,Conventional Commercial Bank,2018-04-17,2018-10-06,28.55,Fixed Interest Rates,172,0
+5777f684-ad49-4618-886a-821ae417b032,Conventional Commercial Bank,2018-04-18,2018-10-06,28.55,Fixed Interest Rates,171,0
+5777f684-ad49-4618-886a-821ae417b032,Conventional Commercial Bank,2018-05-23,2018-11-06,28.55,Fixed Interest Rates,167,0
+5777f684-ad49-4618-886a-821ae417b032,Conventional Commercial Bank,2018-04-22,2018-10-06,28.55,Fixed Interest Rates,167,0
+5777f684-ad49-4618-886a-821ae417b032,Conventional Commercial Bank,2018-08-11,2018-11-06,31.26,Fixed Interest Rates,87,0
+5777f684-ad49-4618-886a-821ae417b032,Financing Company,2018-04-22,2018-10-07,2.95,Fixed Interest Rates,168,0
+5777f684-ad49-4618-886a-821ae417b032,Financing Company,2018-04-17,2018-10-07,2.95,Fixed Interest Rates,173,0
+5777f684-ad49-4618-886a-821ae417b032,Financing Company,2018-08-11,2018-11-07,2.95,Fixed Interest Rates,88,0
+5777f684-ad49-4618-886a-821ae417b032,Financing Company,2018-05-23,2018-11-07,2.95,Fixed Interest Rates,168,0
+5777f684-ad49-4618-886a-821ae417b032,Financing Company,2018-05-25,2018-11-07,2.95,Fixed Interest Rates,166,0
+5777f684-ad49-4618-886a-821ae417b032,Financing Company,2018-07-07,2018-08-07,2.95,Fixed Interest Rates,31,0
+5777f684-ad49-4618-886a-821ae417b032,Conventional Commercial Bank,2018-07-07,2018-08-06,22.15,Fixed Interest Rates,30,0
+5777f684-ad49-4618-886a-821ae417b032,Financing Company,2018-06-17,2018-07-07,2.95,Fixed Interest Rates,20,0
+5777f684-ad49-4618-886a-821ae417b032,Conventional Commercial Bank,2018-06-17,2018-07-06,22.15,Fixed Interest Rates,19,0
+5777f684-ad49-4618-886a-821ae417b032,Conventional Commercial Bank,2018-03-17,2018-04-06,22.0,Fixed Interest Rates,20,0
+5777f684-ad49-4618-886a-821ae417b032,Conventional Commercial Bank,2018-03-14,2018-04-06,22.0,Fixed Interest Rates,23,0
+5777f684-ad49-4618-886a-821ae417b032,Financing Company,2018-03-17,2018-04-07,2.94,Fixed Interest Rates,21,0
+5777f684-ad49-4618-886a-821ae417b032,Financing Company,2018-03-14,2018-04-07,2.95,Fixed Interest Rates,24,0
+5777f684-ad49-4618-886a-821ae417b032,Conventional Commercial Bank,2018-02-25,2018-03-06,22.0,Fixed Interest Rates,9,0
+5777f684-ad49-4618-886a-821ae417b032,Conventional Commercial Bank,2018-02-07,2018-03-06,22.0,Fixed Interest Rates,27,0
+5777f684-ad49-4618-886a-821ae417b032,Conventional Commercial Bank,2018-02-08,2018-03-06,22.0,Fixed Interest Rates,26,0
+5777f684-ad49-4618-886a-821ae417b032,Financing Company,2018-01-08,2018-02-07,2.95,Fixed Interest Rates,30,0
+5777f684-ad49-4618-886a-821ae417b032,Conventional Commercial Bank,2018-01-08,2018-02-06,22.0,Fixed Interest Rates,29,0
+5777f684-ad49-4618-886a-821ae417b032,Conventional Commercial Bank,2017-11-17,2018-02-07,21.0,Fixed Interest Rates,82,0
+5777f684-ad49-4618-886a-821ae417b032,Conventional Commercial Bank,2017-12-14,2018-01-06,22.0,Fixed Interest Rates,23,0
+5777f684-ad49-4618-886a-821ae417b032,Conventional Commercial Bank,2017-11-04,2017-12-06,22.0,Fixed Interest Rates,32,0
+5777f684-ad49-4618-886a-821ae417b032,Financing Company,2017-10-07,2017-11-07,2.95,Fixed Interest Rates,31,0
+5777f684-ad49-4618-886a-821ae417b032,Conventional Commercial Bank,2017-10-07,2017-11-06,22.0,Fixed Interest Rates,30,0
+5777f684-ad49-4618-886a-821ae417b032,Financing Company,2017-04-10,2017-07-07,2.94,Fixed Interest Rates,88,0
+5777f684-ad49-4618-886a-821ae417b032,Financing Company,2017-04-11,2017-07-07,2.94,Fixed Interest Rates,87,0
+5777f684-ad49-4618-886a-821ae417b032,Financing Company,2018-02-07,2018-03-07,2.94,Fixed Interest Rates,28,0
+5777f684-ad49-4618-886a-821ae417b032,Financing Company,2017-11-04,2017-12-07,2.94,Fixed Interest Rates,33,0
+5777f684-ad49-4618-886a-821ae417b032,Conventional Commercial Bank,2018-02-05,2018-03-06,22.0,Fixed Interest Rates,29,0
+5777f684-ad49-4618-886a-821ae417b032,Financing Company,2017-12-14,2018-01-07,2.95,Fixed Interest Rates,24,0
+5777f684-ad49-4618-886a-821ae417b032,Financing Company,2018-02-05,2018-03-07,2.95,Fixed Interest Rates,30,0
+5777f684-ad49-4618-886a-821ae417b032,Financing Company,2018-02-25,2018-03-07,2.94,Fixed Interest Rates,10,0
+5777f684-ad49-4618-886a-821ae417b032,Financing Company,2018-02-08,2018-03-07,2.95,Fixed Interest Rates,27,0
+7d94a49f-b725-4f19-9dfa-0adb608e433c,Conventional Rural Bank,2014-02-21,2019-02-21,13.0,Fixed Interest Rates,1826,90
+4dd37364-760f-4e29-8f3e-ced5061c873c,Conventional Commercial Bank,2016-02-13,2019-02-13,3.13,Fixed Interest Rates,1096,0
+4dd37364-760f-4e29-8f3e-ced5061c873c,Conventional Commercial Bank,2014-03-24,2017-03-24,3.66,Fixed Interest Rates,1096,0
+673377c3-6c2b-4caf-ac2d-c424bd14521d,Conventional Commercial Bank,2018-06-29,2021-05-28,9.0,Fixed Interest Rates,1064,5
+673377c3-6c2b-4caf-ac2d-c424bd14521d,Financing Company,2018-06-28,2021-05-28,22.4,Fixed Interest Rates,1065,0
+34ad8e59-d753-4779-bb99-bf39ca5acd11,Conventional Commercial Bank,2018-10-15,2018-11-03,15.0,Fixed Interest Rates,19,0
+fd7d2207-ad99-488a-87ab-46eaad8bea37,Conventional Commercial Bank,2012-11-25,2032-12-08,5.0,Floating Interest Rates,7318,25
+fd7d2207-ad99-488a-87ab-46eaad8bea37,Conventional Commercial Bank,2016-10-18,2019-10-18,6.0,Floating Interest Rates,1095,12
+16fecc5a-55a0-46de-a568-adffef31f8e2,Conventional Commercial Bank,2017-11-23,2018-02-23,41.0,Fixed Interest Rates,92,154
+16fecc5a-55a0-46de-a568-adffef31f8e2,Financing Company,2016-03-25,2019-03-25,22.21,Fixed Interest Rates,1095,39
+16fecc5a-55a0-46de-a568-adffef31f8e2,Financing Company,2017-11-23,2017-12-11,0.3,Fixed Interest Rates,18,0
+16fecc5a-55a0-46de-a568-adffef31f8e2,Financing Company,2017-02-27,2017-04-26,0.48,Fixed Interest Rates,58,0
+16fecc5a-55a0-46de-a568-adffef31f8e2,Conventional Commercial Bank,2015-05-30,2016-10-07,9.75,Fixed Interest Rates,496,26
+16fecc5a-55a0-46de-a568-adffef31f8e2,Financing Company,2013-10-31,2016-10-07,23.28,Fixed Interest Rates,1072,26
+26b76fb1-2f08-40cc-894f-95af15aead3d,Financing Company,2018-10-30,2018-11-29,0.0,Fixed Interest Rates,30,0
+26b76fb1-2f08-40cc-894f-95af15aead3d,Conventional Commercial Bank,2017-12-10,2018-12-10,0.0,Floating Interest Rates,365,0
+26b76fb1-2f08-40cc-894f-95af15aead3d,Conventional Commercial Bank,2014-07-11,2018-07-11,14.4,Fixed Interest Rates,1461,0
+d64667fe-4ed4-437d-81dd-c0675c6acf41,Conventional Commercial Bank,2018-08-24,2022-08-24,16.5,Floating Interest Rates,1461,0
+d64667fe-4ed4-437d-81dd-c0675c6acf41,Conventional Commercial Bank,2016-12-01,2020-12-02,6.0,Floating Interest Rates,1462,0
+471c132b-6534-4b19-93e7-3716c1e0345f,Financing Company,2017-06-30,2018-12-30,46.69,Fixed Interest Rates,548,0
+471c132b-6534-4b19-93e7-3716c1e0345f,Financing Company,2016-05-01,2017-11-01,47.14,Fixed Interest Rates,549,0
+471c132b-6534-4b19-93e7-3716c1e0345f,Financing Company,2014-03-24,2015-09-24,45.73,Fixed Interest Rates,549,0
+471c132b-6534-4b19-93e7-3716c1e0345f,Conventional Commercial Bank,2016-06-25,2020-06-25,10.86,Margin,1461,0
+471c132b-6534-4b19-93e7-3716c1e0345f,Financing Company,2016-06-25,2020-06-25,18.29,Margin,1461,0
+29e19c04-592d-4ec9-87e3-0cad45efaa08,Conventional Commercial Bank,2016-02-18,2019-02-18,3.13,Fixed Interest Rates,1096,0
+29e19c04-592d-4ec9-87e3-0cad45efaa08,Conventional Commercial Bank,2015-01-03,2015-07-03,0.0,Fixed Interest Rates,181,0
+29e19c04-592d-4ec9-87e3-0cad45efaa08,Financing Company,2014-12-31,2015-07-03,0.0,Fixed Interest Rates,184,0
+9021eb07-b79e-43db-b418-78e3615d61d5,Conventional Commercial Bank,2017-10-16,2020-10-16,3.13,Fixed Interest Rates,1096,0
+78d28cc7-3732-45ff-8ed4-bad6776f96f0,Conventional Commercial Bank,2016-11-26,2019-11-26,6.0,Floating Interest Rates,1095,0
+78d28cc7-3732-45ff-8ed4-bad6776f96f0,Conventional Commercial Bank,2016-08-27,2017-02-26,6.0,Floating Interest Rates,183,0
+78d28cc7-3732-45ff-8ed4-bad6776f96f0,Conventional Commercial Bank,2016-03-13,2016-09-12,6.0,Floating Interest Rates,183,0
+78d28cc7-3732-45ff-8ed4-bad6776f96f0,Conventional Rural Bank,2015-12-04,2016-06-04,27.0,Floating Interest Rates,183,0
+78d28cc7-3732-45ff-8ed4-bad6776f96f0,Conventional Commercial Bank,2015-01-18,2015-07-18,4.04,Fixed Interest Rates,181,0
+c1c5bd34-263b-49d2-9e81-b5581af84458,Conventional Commercial Bank,2016-07-16,2018-07-16,6.0,Floating Interest Rates,730,0
+c1c5bd34-263b-49d2-9e81-b5581af84458,Conventional Commercial Bank,2014-07-05,2016-07-05,3.73,Fixed Interest Rates,731,0
+2a66668b-238f-403b-9566-241b961d0d85,Conventional Rural Bank,2014-12-19,2018-12-19,18.0,Fixed Interest Rates,1461,74
+2a66668b-238f-403b-9566-241b961d0d85,Financing Company,2015-08-14,2016-07-13,61.07,Fixed Interest Rates,334,20
+2a66668b-238f-403b-9566-241b961d0d85,Financing Company,2015-05-28,2018-04-28,27.23,Fixed Interest Rates,1066,0
+2a66668b-238f-403b-9566-241b961d0d85,Conventional Commercial Bank,2015-10-18,2018-05-04,9.15,Fixed Interest Rates,929,0
+2a66668b-238f-403b-9566-241b961d0d85,Financing Company,2014-07-19,2017-06-19,26.39,Fixed Interest Rates,1066,14
+2a66668b-238f-403b-9566-241b961d0d85,Conventional Commercial Bank,2015-04-06,2017-06-19,9.65,Fixed Interest Rates,805,14
+2a66668b-238f-403b-9566-241b961d0d85,Conventional Rural Bank,2014-08-01,2015-02-01,27.0,Fixed Interest Rates,184,335
+94db1906-d729-4332-99a9-607e30aef576,Conventional Commercial Bank,2017-09-17,2020-09-17,3.13,Fixed Interest Rates,1096,0
+bd8ce741-1b69-4261-959f-1f8a54f69439,Conventional Commercial Bank,2018-08-11,2019-02-11,28.0,Floating Interest Rates,184,0
+bd8ce741-1b69-4261-959f-1f8a54f69439,Conventional Commercial Bank,2013-04-01,2016-03-31,9.0,Floating Interest Rates,1095,0
+e6b86506-ef4e-43e7-8cbd-69b7a6da3b4f,Conventional Commercial Bank,2017-06-22,2021-06-22,22.0,Floating Interest Rates,1461,0
+e6b86506-ef4e-43e7-8cbd-69b7a6da3b4f,Conventional Commercial Bank,2015-04-17,2019-04-17,15.0,Fixed Interest Rates,1461,16
+57c335ce-a59c-4e0a-9ca9-11b4b96af7e4,Financing Company,2018-03-03,2020-03-03,45.01,Fixed Interest Rates,731,0
+57c335ce-a59c-4e0a-9ca9-11b4b96af7e4,Financing Company,2018-08-25,2018-09-27,0.0,Fixed Interest Rates,33,36
+57c335ce-a59c-4e0a-9ca9-11b4b96af7e4,Financing Company,2018-10-27,2023-10-25,21.07,Fixed Interest Rates,1824,0
+57c335ce-a59c-4e0a-9ca9-11b4b96af7e4,Conventional Commercial Bank,2018-10-25,2023-10-25,9.0,Fixed Interest Rates,1826,0
+57c335ce-a59c-4e0a-9ca9-11b4b96af7e4,Financing Company,2018-08-25,2018-09-27,0.0,Fixed Interest Rates,33,5
+57c335ce-a59c-4e0a-9ca9-11b4b96af7e4,Financing Company,2018-07-05,2018-07-27,0.0,Fixed Interest Rates,22,6
+57c335ce-a59c-4e0a-9ca9-11b4b96af7e4,Financing Company,2018-06-01,2018-06-27,0.0,Fixed Interest Rates,26,0
+57c335ce-a59c-4e0a-9ca9-11b4b96af7e4,Financing Company,2018-06-01,2018-06-27,0.0,Fixed Interest Rates,26,0
+57c335ce-a59c-4e0a-9ca9-11b4b96af7e4,Financing Company,2014-07-26,2015-07-25,39.48,Fixed Interest Rates,364,7
+8f1be164-e107-4235-bb86-6a15b1389561,Financing Company,2017-02-12,2019-11-10,36.27,Fixed Interest Rates,1001,22
+8f1be164-e107-4235-bb86-6a15b1389561,Financing Company,2018-07-09,2020-07-09,23.52,Fixed Interest Rates,731,0
+9d230fd0-983c-49d2-b367-bb68d4a78447,Conventional Commercial Bank,2017-04-30,2017-10-29,11.5,Fixed Interest Rates,182,0
+80079746-f673-40be-a3fd-c88bf502e376,Conventional Commercial Bank,2018-09-09,2018-12-09,35.0,Fixed Interest Rates,91,0
+80079746-f673-40be-a3fd-c88bf502e376,Conventional Commercial Bank,2018-09-27,2018-10-27,35.0,Fixed Interest Rates,30,0
+80079746-f673-40be-a3fd-c88bf502e376,Conventional Commercial Bank,2018-04-27,2018-07-27,35.0,Fixed Interest Rates,91,0
+80079746-f673-40be-a3fd-c88bf502e376,Conventional Commercial Bank,2018-06-21,2018-07-21,35.0,Fixed Interest Rates,30,0
+80079746-f673-40be-a3fd-c88bf502e376,Conventional Commercial Bank,2018-04-13,2018-05-13,35.0,Fixed Interest Rates,30,0
+80079746-f673-40be-a3fd-c88bf502e376,Conventional Commercial Bank,2018-02-01,2018-05-01,30.0,Fixed Interest Rates,89,1
+80079746-f673-40be-a3fd-c88bf502e376,Conventional Commercial Bank,2018-03-29,2018-04-29,35.0,Fixed Interest Rates,31,0
+80079746-f673-40be-a3fd-c88bf502e376,Conventional Commercial Bank,2018-03-15,2018-06-15,35.0,Fixed Interest Rates,92,0
+80079746-f673-40be-a3fd-c88bf502e376,Financing Company,2017-12-23,2018-04-03,0.47,Fixed Interest Rates,101,0
+80079746-f673-40be-a3fd-c88bf502e376,Conventional Commercial Bank,2018-02-11,2018-03-11,35.0,Fixed Interest Rates,28,0
+80079746-f673-40be-a3fd-c88bf502e376,Conventional Commercial Bank,2017-12-28,2018-03-28,30.0,Fixed Interest Rates,90,0
+80079746-f673-40be-a3fd-c88bf502e376,Conventional Commercial Bank,2018-02-26,2018-03-26,35.0,Fixed Interest Rates,28,0
+80079746-f673-40be-a3fd-c88bf502e376,Financing Company,2017-12-29,2018-02-03,0.0,Fixed Interest Rates,36,0
+80079746-f673-40be-a3fd-c88bf502e376,Financing Company,2017-11-24,2018-01-03,0.0,Fixed Interest Rates,40,0
+80079746-f673-40be-a3fd-c88bf502e376,Financing Company,2017-11-26,2018-01-03,0.0,Fixed Interest Rates,38,0
+80079746-f673-40be-a3fd-c88bf502e376,Conventional Commercial Bank,2017-10-31,2018-01-31,30.0,Fixed Interest Rates,92,0
+80079746-f673-40be-a3fd-c88bf502e376,Conventional Commercial Bank,2017-09-24,2017-10-24,30.0,Fixed Interest Rates,30,0
+80079746-f673-40be-a3fd-c88bf502e376,Financing Company,2017-08-30,2017-10-03,0.0,Fixed Interest Rates,34,0
+80079746-f673-40be-a3fd-c88bf502e376,Conventional Commercial Bank,2017-08-31,2017-10-01,30.0,Fixed Interest Rates,31,0
+80079746-f673-40be-a3fd-c88bf502e376,Financing Company,2017-07-30,2017-09-03,0.0,Fixed Interest Rates,35,0
+80079746-f673-40be-a3fd-c88bf502e376,Financing Company,2017-05-12,2017-08-03,0.47,Fixed Interest Rates,83,0
+80079746-f673-40be-a3fd-c88bf502e376,Financing Company,2017-06-22,2017-10-03,0.47,Fixed Interest Rates,103,0
+80079746-f673-40be-a3fd-c88bf502e376,Financing Company,2017-05-31,2017-07-03,0.0,Fixed Interest Rates,33,0
+80079746-f673-40be-a3fd-c88bf502e376,Financing Company,2017-03-07,2017-06-03,0.47,Fixed Interest Rates,88,0
+80079746-f673-40be-a3fd-c88bf502e376,Financing Company,2017-02-23,2017-06-03,0.47,Fixed Interest Rates,100,0
+80079746-f673-40be-a3fd-c88bf502e376,Financing Company,2017-02-08,2017-05-03,0.47,Fixed Interest Rates,84,0
+80079746-f673-40be-a3fd-c88bf502e376,Financing Company,2017-02-25,2017-04-03,0.0,Fixed Interest Rates,37,0
+80079746-f673-40be-a3fd-c88bf502e376,Financing Company,2017-02-23,2017-04-03,0.0,Fixed Interest Rates,39,0
+80079746-f673-40be-a3fd-c88bf502e376,Conventional Commercial Bank,2017-02-23,2017-03-23,25.0,Fixed Interest Rates,28,0
+f2b012cf-4f84-4754-aa4f-b002c802e054,Conventional Commercial Bank,2012-01-28,2015-01-28,8.64,Floating Interest Rates,1096,2104
+8770d677-2216-4308-8502-131aa272876e,Conventional Commercial Bank,2017-12-01,2019-12-01,6.0,Floating Interest Rates,730,0
+6c7ed38a-5909-46fe-b26e-1a674c1f7dc0,Conventional Commercial Bank,2017-09-15,2018-09-15,6.0,Floating Interest Rates,365,0
+6c7ed38a-5909-46fe-b26e-1a674c1f7dc0,Conventional Commercial Bank,2016-09-27,2017-09-27,6.0,Floating Interest Rates,365,0
+5bbe2fe9-c9f8-43de-8608-4e116e94baf3,Conventional Commercial Bank,2018-04-14,2021-04-14,3.13,Fixed Interest Rates,1096,0
+5bbe2fe9-c9f8-43de-8608-4e116e94baf3,Conventional Commercial Bank,2017-10-13,2020-10-13,3.13,Fixed Interest Rates,1096,0
+a8a3e3e5-a948-4350-b86f-2637d148663d,Conventional Commercial Bank,2017-06-19,2019-06-19,6.0,Floating Interest Rates,730,0
+a8a3e3e5-a948-4350-b86f-2637d148663d,Conventional Rural Bank,2017-05-25,2017-11-25,27.0,Fixed Interest Rates,184,0
+a8a3e3e5-a948-4350-b86f-2637d148663d,Conventional Commercial Bank,2016-01-14,2017-07-14,14.4,Fixed Interest Rates,547,0
+a8a3e3e5-a948-4350-b86f-2637d148663d,Conventional Commercial Bank,2015-07-12,2016-01-12,14.4,Fixed Interest Rates,184,0
+a8a3e3e5-a948-4350-b86f-2637d148663d,Conventional Rural Bank,2016-11-20,2017-05-20,27.0,Fixed Interest Rates,181,12
+a8a3e3e5-a948-4350-b86f-2637d148663d,Conventional Commercial Bank,2014-02-24,2017-02-24,13.0,Floating Interest Rates,1096,0
+a8a3e3e5-a948-4350-b86f-2637d148663d,Conventional Rural Bank,2016-05-19,2016-11-19,27.0,Fixed Interest Rates,184,0
+a8a3e3e5-a948-4350-b86f-2637d148663d,Conventional Rural Bank,2015-11-19,2016-05-19,27.0,Fixed Interest Rates,182,0
+a8a3e3e5-a948-4350-b86f-2637d148663d,Conventional Rural Bank,2015-05-18,2015-11-18,27.0,Fixed Interest Rates,184,0
+092bdcc6-5695-4505-a526-72daf2955657,Financing Company,2016-03-14,2020-02-14,17.94,Fixed Interest Rates,1432,18
+5bdc83f2-c6b5-4899-9c1a-141eb840f2c6,Conventional Commercial Bank,2018-09-10,2018-11-10,54.0,Fixed Interest Rates,61,0
+5bdc83f2-c6b5-4899-9c1a-141eb840f2c6,Conventional Commercial Bank,2018-09-10,2018-11-10,54.0,Fixed Interest Rates,61,0
+5bdc83f2-c6b5-4899-9c1a-141eb840f2c6,Conventional Commercial Bank,2018-05-05,2018-07-04,14.5,Fixed Interest Rates,60,0
+5bdc83f2-c6b5-4899-9c1a-141eb840f2c6,Conventional Commercial Bank,2018-01-01,2023-01-01,24.0,Fixed Interest Rates,1826,30
+5bdc83f2-c6b5-4899-9c1a-141eb840f2c6,Conventional Commercial Bank,2018-02-06,2018-04-06,14.5,Fixed Interest Rates,59,0
+5bdc83f2-c6b5-4899-9c1a-141eb840f2c6,Conventional Commercial Bank,2018-02-22,2018-04-22,14.5,Fixed Interest Rates,59,0
+5bdc83f2-c6b5-4899-9c1a-141eb840f2c6,Conventional Commercial Bank,2017-09-07,2017-10-05,15.75,Fixed Interest Rates,28,0
+11574fde-e0b5-420b-a80d-a74a9ecec295,Financing Company,2017-01-24,2019-09-16,25.22,Fixed Interest Rates,965,0
+11574fde-e0b5-420b-a80d-a74a9ecec295,Conventional Commercial Bank,2017-05-22,2019-09-16,11.0,Fixed Interest Rates,847,0
+11574fde-e0b5-420b-a80d-a74a9ecec295,Conventional Commercial Bank,2018-04-23,2019-04-23,12.5,Floating Interest Rates,365,0
+11574fde-e0b5-420b-a80d-a74a9ecec295,Financing Company,2015-12-04,2019-11-04,14.26,Fixed Interest Rates,1431,0
+11574fde-e0b5-420b-a80d-a74a9ecec295,Conventional Commercial Bank,2016-08-13,2019-11-04,11.26,Fixed Interest Rates,1178,0
+11574fde-e0b5-420b-a80d-a74a9ecec295,Conventional Commercial Bank,2015-04-16,2018-04-16,7.0,Fixed Interest Rates,1096,0
+11574fde-e0b5-420b-a80d-a74a9ecec295,Financing Company,2013-03-04,2016-02-04,10.21,Fixed Interest Rates,1067,0
+11574fde-e0b5-420b-a80d-a74a9ecec295,Conventional Commercial Bank,2013-03-04,2016-02-04,6.7,Fixed Interest Rates,1067,0
+f9191372-b402-4bb0-9a0b-8ad443db17b2,Conventional Commercial Bank,2016-02-15,2019-02-15,3.17,Fixed Interest Rates,1096,0
+f9191372-b402-4bb0-9a0b-8ad443db17b2,Conventional Commercial Bank,2013-10-07,2015-10-07,4.82,Fixed Interest Rates,730,0
+758c9662-8723-488d-8421-42be0cb44fb6,Conventional Commercial Bank,2018-09-28,2022-09-28,24.42,Fixed Interest Rates,1461,0
+758c9662-8723-488d-8421-42be0cb44fb6,Conventional Commercial Bank,2018-09-15,2019-03-15,25.5,Floating Interest Rates,181,0
+758c9662-8723-488d-8421-42be0cb44fb6,Conventional Commercial Bank,2017-01-19,2020-01-19,26.91,Fixed Interest Rates,1095,0
+758c9662-8723-488d-8421-42be0cb44fb6,Conventional Commercial Bank,2018-03-12,2018-09-12,14.4,Fixed Interest Rates,184,0
+758c9662-8723-488d-8421-42be0cb44fb6,Conventional Commercial Bank,2017-09-16,2018-03-16,14.4,Fixed Interest Rates,181,0
+758c9662-8723-488d-8421-42be0cb44fb6,Conventional Commercial Bank,2017-03-26,2017-09-26,14.4,Fixed Interest Rates,184,0
+758c9662-8723-488d-8421-42be0cb44fb6,Conventional Commercial Bank,2016-09-19,2017-03-19,14.4,Fixed Interest Rates,181,0
+758c9662-8723-488d-8421-42be0cb44fb6,Conventional Commercial Bank,2015-05-28,2017-05-28,31.46,Fixed Interest Rates,731,0
+758c9662-8723-488d-8421-42be0cb44fb6,Conventional Commercial Bank,2016-03-11,2016-09-11,14.4,Fixed Interest Rates,184,0
+758c9662-8723-488d-8421-42be0cb44fb6,Conventional Commercial Bank,2015-09-04,2016-03-04,14.4,Fixed Interest Rates,182,0
+376d1ea3-c973-4d38-98b1-3364fcf04306,Conventional Commercial Bank,2018-04-20,2021-04-20,3.13,Fixed Interest Rates,1096,0
+dc425103-e450-4470-ba29-2d1114a73d7e,Financing Company,2018-07-29,2019-07-26,35.96,Fixed Interest Rates,362,0
+89a9e554-daa1-4ee7-aba2-0713b284dec3,Conventional Commercial Bank,2017-12-21,2018-06-21,6.0,Floating Interest Rates,182,0
+89a9e554-daa1-4ee7-aba2-0713b284dec3,Conventional Commercial Bank,2017-06-17,2017-12-17,3.47,Fixed Interest Rates,183,0
+89a9e554-daa1-4ee7-aba2-0713b284dec3,Conventional Commercial Bank,2016-12-04,2017-06-04,3.47,Fixed Interest Rates,182,0
+0680a8c1-30cb-4d52-afa2-a50f9f5ae073,Conventional Commercial Bank,2017-10-07,2018-10-07,3.19,Fixed Interest Rates,365,0
+612ec9cd-5cb6-4acb-8669-49550c787982,Financing Company,2016-03-25,2018-08-26,11.3,Fixed Interest Rates,884,159
+612ec9cd-5cb6-4acb-8669-49550c787982,Financing Company,2010-10-03,2013-09-03,15.95,Fixed Interest Rates,1066,2525
+612ec9cd-5cb6-4acb-8669-49550c787982,Conventional Commercial Bank,2010-10-03,2013-09-03,11.0,Fixed Interest Rates,1066,2524
+612ec9cd-5cb6-4acb-8669-49550c787982,Conventional Commercial Bank,2017-04-01,2017-07-30,12.5,Floating Interest Rates,120,549
+612ec9cd-5cb6-4acb-8669-49550c787982,Financing Company,2018-04-12,2018-05-26,0.27,Fixed Interest Rates,44,128
+612ec9cd-5cb6-4acb-8669-49550c787982,Financing Company,2018-04-12,2018-05-26,0.33,Fixed Interest Rates,44,128
+612ec9cd-5cb6-4acb-8669-49550c787982,Financing Company,2018-01-09,2018-09-26,0.42,Fixed Interest Rates,260,128
+612ec9cd-5cb6-4acb-8669-49550c787982,Conventional Commercial Bank,2011-11-28,2015-11-28,11.19,Floating Interest Rates,1461,1708
+612ec9cd-5cb6-4acb-8669-49550c787982,Financing Company,2017-06-24,2018-07-24,56.03,Fixed Interest Rates,395,70
+612ec9cd-5cb6-4acb-8669-49550c787982,Financing Company,2018-07-24,2018-08-23,0.0,Fixed Interest Rates,30,0
+612ec9cd-5cb6-4acb-8669-49550c787982,Financing Company,2018-04-30,2018-05-30,0.0,Fixed Interest Rates,30,3
+612ec9cd-5cb6-4acb-8669-49550c787982,Financing Company,2018-03-26,2018-04-26,0.36,Fixed Interest Rates,31,5
+612ec9cd-5cb6-4acb-8669-49550c787982,Financing Company,2018-03-17,2018-04-26,0.26,Fixed Interest Rates,40,5
+612ec9cd-5cb6-4acb-8669-49550c787982,Financing Company,2018-03-17,2018-04-26,0.24,Fixed Interest Rates,40,5
+612ec9cd-5cb6-4acb-8669-49550c787982,Conventional Commercial Bank,2018-01-27,2018-02-24,15.0,Fixed Interest Rates,28,0
+612ec9cd-5cb6-4acb-8669-49550c787982,Financing Company,2018-01-30,2018-02-26,0.36,Fixed Interest Rates,27,0
+612ec9cd-5cb6-4acb-8669-49550c787982,Financing Company,2012-06-23,2012-07-23,10.0,Fixed Interest Rates,30,1156
+612ec9cd-5cb6-4acb-8669-49550c787982,Financing Company,2013-05-01,2016-04-07,37.37,Fixed Interest Rates,1072,56
+612ec9cd-5cb6-4acb-8669-49550c787982,Conventional Commercial Bank,2014-06-07,2016-04-07,8.25,Fixed Interest Rates,670,56
+612ec9cd-5cb6-4acb-8669-49550c787982,Financing Company,2011-11-25,2015-11-25,17.15,Fixed Interest Rates,1461,646
+612ec9cd-5cb6-4acb-8669-49550c787982,Financing Company,2018-01-09,2018-05-26,0.27,Fixed Interest Rates,137,159
+612ec9cd-5cb6-4acb-8669-49550c787982,Financing Company,2018-11-18,2019-11-18,44.44,Fixed Interest Rates,365,0
+066e9ca4-af5c-48ce-9cb7-7034c5f9d6ed,Conventional Commercial Bank,2018-03-29,2020-04-01,6.0,Floating Interest Rates,734,0
+1f4c7a0e-6564-4830-9147-13480345136a,Conventional Commercial Bank,2005-08-13,2007-05-13,31.51,Others,638,4617
+e8ccf26f-1414-4f8a-b005-631381e854e8,Financing Company,2014-08-10,2018-07-09,19.32,Fixed Interest Rates,1429,146
+e8ccf26f-1414-4f8a-b005-631381e854e8,Conventional Commercial Bank,2014-08-10,2018-07-09,11.72,Fixed Interest Rates,1429,146
+31ff7911-af46-4dee-80bd-bcbcd91edeb5,Conventional Commercial Bank,2018-05-21,2020-05-21,6.0,Floating Interest Rates,731,0
+31ff7911-af46-4dee-80bd-bcbcd91edeb5,Financing Company,2013-10-01,2016-11-03,20.0,Fixed Interest Rates,1129,60
+188ad3aa-1544-4a58-b93c-011b92c65664,Financing Company,2017-02-24,2020-02-24,43.7,Fixed Interest Rates,1095,0
+188ad3aa-1544-4a58-b93c-011b92c65664,Conventional Commercial Bank,2018-06-15,2018-12-15,6.0,Floating Interest Rates,183,0
+188ad3aa-1544-4a58-b93c-011b92c65664,Conventional Commercial Bank,2017-12-09,2018-06-09,6.0,Floating Interest Rates,182,0
+188ad3aa-1544-4a58-b93c-011b92c65664,Conventional Commercial Bank,2017-06-05,2017-12-05,3.47,Fixed Interest Rates,183,0
+188ad3aa-1544-4a58-b93c-011b92c65664,Conventional Commercial Bank,2016-11-24,2017-05-24,3.47,Fixed Interest Rates,181,0
+188ad3aa-1544-4a58-b93c-011b92c65664,Conventional Commercial Bank,2016-05-05,2016-11-05,3.47,Fixed Interest Rates,184,0
+188ad3aa-1544-4a58-b93c-011b92c65664,Financing Company,2014-06-01,2016-12-01,37.22,Fixed Interest Rates,914,64
+38229b3a-83cc-4884-9720-4f127407e51c,Conventional Commercial Bank,2017-06-17,2019-06-17,6.0,Floating Interest Rates,730,0
+38229b3a-83cc-4884-9720-4f127407e51c,Conventional Commercial Bank,2016-01-21,2018-01-21,3.18,Fixed Interest Rates,731,0
+38229b3a-83cc-4884-9720-4f127407e51c,Conventional Commercial Bank,2014-10-09,2016-10-09,3.73,Fixed Interest Rates,731,0
+8ac9e4ea-d5c4-43cc-9492-b420ce97b84f,Conventional Commercial Bank,2018-07-13,2021-07-13,6.0,Floating Interest Rates,1096,0
+8ac9e4ea-d5c4-43cc-9492-b420ce97b84f,Conventional Commercial Bank,2016-12-16,2017-07-16,3.4,Fixed Interest Rates,212,0
+8ac9e4ea-d5c4-43cc-9492-b420ce97b84f,Conventional Commercial Bank,2016-07-22,2017-01-22,3.47,Fixed Interest Rates,184,0
+8ac9e4ea-d5c4-43cc-9492-b420ce97b84f,Conventional Commercial Bank,2016-01-22,2016-07-22,3.47,Fixed Interest Rates,182,0
+8ac9e4ea-d5c4-43cc-9492-b420ce97b84f,Conventional Commercial Bank,2015-09-18,2016-04-18,3.95,Fixed Interest Rates,213,0
+8ac9e4ea-d5c4-43cc-9492-b420ce97b84f,Conventional Commercial Bank,2015-04-06,2015-10-06,4.04,Fixed Interest Rates,183,0
+a745db89-8825-4027-a59e-efbd95bc42bb,Financing Company,2013-11-26,2016-11-06,31.0,Fixed Interest Rates,1076,0
+f4c39eec-5710-4a75-b29e-d8eabc1b7011,Financing Company,2015-07-06,2016-07-06,29.88,Fixed Interest Rates,366,0
+aa4c1d23-aa3d-41ec-888c-7e2d41ee4458,Conventional Commercial Bank,2015-10-30,2017-10-30,3.73,Fixed Interest Rates,731,0
+aa4c1d23-aa3d-41ec-888c-7e2d41ee4458,Conventional Commercial Bank,2013-11-29,2015-11-29,4.82,Fixed Interest Rates,730,0
+2a3002dd-503f-4281-a629-caa1fc722203,Conventional Commercial Bank,2017-12-10,2020-12-10,6.0,Floating Interest Rates,1096,0
+2a3002dd-503f-4281-a629-caa1fc722203,Conventional Commercial Bank,2018-06-22,2018-09-20,14.5,Fixed Interest Rates,90,11
+2a3002dd-503f-4281-a629-caa1fc722203,Conventional Commercial Bank,2018-08-27,2018-09-27,35.0,Fixed Interest Rates,31,0
+2a3002dd-503f-4281-a629-caa1fc722203,Financing Company,2018-07-01,2018-08-11,0.3,Fixed Interest Rates,41,0
+2a3002dd-503f-4281-a629-caa1fc722203,Financing Company,2018-07-19,2018-08-11,0.32,Fixed Interest Rates,23,0
+2a3002dd-503f-4281-a629-caa1fc722203,Conventional Commercial Bank,2018-02-11,2018-08-11,35.0,Fixed Interest Rates,181,0
+2a3002dd-503f-4281-a629-caa1fc722203,Financing Company,2018-02-02,2018-03-11,0.21,Fixed Interest Rates,37,0
+2a3002dd-503f-4281-a629-caa1fc722203,Conventional Commercial Bank,2018-02-11,2018-03-11,35.0,Fixed Interest Rates,28,0
+7e10e9a8-8fb1-47cb-bae9-760d6696aca9,Conventional Commercial Bank,2018-01-13,2021-01-13,22.0,Floating Interest Rates,1096,0
+7e10e9a8-8fb1-47cb-bae9-760d6696aca9,Conventional Commercial Bank,2009-02-23,2012-01-23,15.0,Fixed Interest Rates,1064,0
+e8c76c50-343e-4ba2-b726-59fbd58dc504,Financing Company,2017-05-09,2021-05-09,13.75,Fixed Interest Rates,1461,0
+e8c76c50-343e-4ba2-b726-59fbd58dc504,Conventional Commercial Bank,2017-05-12,2021-05-09,11.39,Fixed Interest Rates,1458,0
+d8700454-cdab-4572-9189-47aaaa71e5ee,Conventional Commercial Bank,2018-03-24,2019-03-24,6.0,Floating Interest Rates,365,0
+d8700454-cdab-4572-9189-47aaaa71e5ee,Conventional Commercial Bank,2016-11-25,2017-11-25,6.0,Floating Interest Rates,365,0
+6ec0bb05-4769-4fbe-a2ce-70010291ad1d,Conventional Commercial Bank,2017-07-06,2021-07-05,6.0,Fixed Interest Rates,1460,0
+6ec0bb05-4769-4fbe-a2ce-70010291ad1d,Conventional Commercial Bank,2015-08-25,2020-08-25,11.04,Fixed Interest Rates,1827,0
+6ec0bb05-4769-4fbe-a2ce-70010291ad1d,Conventional Commercial Bank,2014-11-28,2016-11-28,12.0,Fixed Interest Rates,731,0
+5a0e6c6e-25d4-4777-a43f-5c71eb656065,Financing Company,2012-05-03,2015-04-03,24.1,Fixed Interest Rates,1065,269
+5a0e6c6e-25d4-4777-a43f-5c71eb656065,Conventional Commercial Bank,2012-05-03,2015-04-03,12.4,Fixed Interest Rates,1065,269
+5a0e6c6e-25d4-4777-a43f-5c71eb656065,Conventional Commercial Bank,2014-03-01,2023-06-08,13.75,Floating Interest Rates,3386,114
+5a0e6c6e-25d4-4777-a43f-5c71eb656065,Financing Company,2013-05-04,2016-04-04,25.0,Fixed Interest Rates,1066,363
+5a0e6c6e-25d4-4777-a43f-5c71eb656065,Financing Company,2012-11-30,2015-10-30,25.06,Fixed Interest Rates,1064,0
+5a0e6c6e-25d4-4777-a43f-5c71eb656065,Financing Company,2012-10-25,2015-09-25,25.0,Fixed Interest Rates,1065,6
+940e3774-5fa7-490b-a66d-0b80fe4a7e81,Conventional Commercial Bank,2018-05-14,2020-05-14,6.0,Floating Interest Rates,731,0
+940e3774-5fa7-490b-a66d-0b80fe4a7e81,Conventional Commercial Bank,2016-05-20,2018-05-20,3.18,Fixed Interest Rates,730,0
+940e3774-5fa7-490b-a66d-0b80fe4a7e81,Conventional Commercial Bank,2014-05-31,2016-05-31,3.73,Fixed Interest Rates,731,0
+e6c7cd80-fa29-4b32-bd91-c50cb79eb2d2,Conventional Commercial Bank,2018-07-08,2020-07-08,6.0,Floating Interest Rates,731,0
+d311e447-ea29-4048-a616-a715aa61babe,Conventional Commercial Bank,2018-08-31,2022-08-30,6.0,Fixed Interest Rates,1460,0
+d311e447-ea29-4048-a616-a715aa61babe,Financing Company,2018-07-11,2018-08-13,2.95,Fixed Interest Rates,33,0
+d4b5c726-af50-48eb-9dc0-1df05b23056a,Conventional Commercial Bank,2018-10-27,2019-10-06,58.95,Fixed Interest Rates,344,0
+d4b5c726-af50-48eb-9dc0-1df05b23056a,Conventional Commercial Bank,2018-06-03,2018-11-26,28.55,Fixed Interest Rates,176,0
+d4b5c726-af50-48eb-9dc0-1df05b23056a,Financing Company,2018-06-03,2018-11-27,2.5,Fixed Interest Rates,177,0
+d4b5c726-af50-48eb-9dc0-1df05b23056a,Financing Company,2014-09-20,2015-05-16,78.0,Fixed Interest Rates,238,0
+d4b5c726-af50-48eb-9dc0-1df05b23056a,Conventional Commercial Bank,2018-06-03,2018-11-26,28.55,Fixed Interest Rates,176,0
+d4b5c726-af50-48eb-9dc0-1df05b23056a,Financing Company,2018-06-03,2018-11-27,2.5,Fixed Interest Rates,177,0
+d4b5c726-af50-48eb-9dc0-1df05b23056a,Conventional Commercial Bank,2012-05-19,2015-05-19,14.4,Fixed Interest Rates,1095,1627
+d4b5c726-af50-48eb-9dc0-1df05b23056a,Financing Company,2015-08-15,2017-02-15,46.27,Fixed Interest Rates,550,18
+daaf17f0-6098-4a08-9362-5e8d9e3cb06e,Conventional Commercial Bank,2015-11-30,2018-11-30,11.0,Floating Interest Rates,1096,7
+daaf17f0-6098-4a08-9362-5e8d9e3cb06e,Conventional Commercial Bank,2015-12-05,2020-03-05,12.6,Fixed Interest Rates,1552,0
+daaf17f0-6098-4a08-9362-5e8d9e3cb06e,Financing Company,2014-11-13,2018-10-13,21.61,Fixed Interest Rates,1430,0
+daaf17f0-6098-4a08-9362-5e8d9e3cb06e,Conventional Commercial Bank,2014-11-13,2018-10-13,13.05,Fixed Interest Rates,1430,0
+daaf17f0-6098-4a08-9362-5e8d9e3cb06e,Financing Company,2014-06-12,2017-05-12,27.0,Fixed Interest Rates,1065,20
+daaf17f0-6098-4a08-9362-5e8d9e3cb06e,Conventional Commercial Bank,2014-12-18,2015-12-18,15.0,Fixed Interest Rates,365,0
+a11b5ae6-da4b-4838-9075-955d52e5f6cd,Financing Company,2018-05-18,2023-05-18,19.09,Fixed Interest Rates,1826,0
+a11b5ae6-da4b-4838-9075-955d52e5f6cd,Financing Company,2012-01-28,2014-01-28,23.68,Fixed Interest Rates,731,704
+a11b5ae6-da4b-4838-9075-955d52e5f6cd,Conventional Commercial Bank,2012-01-27,2014-01-27,14.0,Fixed Interest Rates,731,644
+178a138a-bc20-4f29-a2e9-52b41cbc804d,Conventional Rural Bank,2018-10-15,2019-10-15,24.0,Floating Interest Rates,365,16
+178a138a-bc20-4f29-a2e9-52b41cbc804d,Conventional Rural Bank,2017-10-16,2018-10-16,24.0,Floating Interest Rates,365,77
+178a138a-bc20-4f29-a2e9-52b41cbc804d,Conventional Rural Bank,2018-08-24,2019-02-24,24.0,Fixed Interest Rates,184,0
+178a138a-bc20-4f29-a2e9-52b41cbc804d,Conventional Rural Bank,2018-02-25,2018-08-25,24.0,Fixed Interest Rates,181,0
+178a138a-bc20-4f29-a2e9-52b41cbc804d,Conventional Commercial Bank,2017-02-11,2022-01-01,24.0,Fixed Interest Rates,1785,0
+178a138a-bc20-4f29-a2e9-52b41cbc804d,Conventional Rural Bank,2017-08-24,2018-02-24,24.0,Fixed Interest Rates,184,0
+178a138a-bc20-4f29-a2e9-52b41cbc804d,Conventional Commercial Bank,2017-02-11,2021-12-01,24.0,Fixed Interest Rates,1754,1
+178a138a-bc20-4f29-a2e9-52b41cbc804d,Conventional Commercial Bank,2017-03-24,2017-09-24,3.47,Fixed Interest Rates,184,0
+178a138a-bc20-4f29-a2e9-52b41cbc804d,Conventional Rural Bank,2016-03-13,2016-09-13,30.0,Fixed Interest Rates,184,0
+178a138a-bc20-4f29-a2e9-52b41cbc804d,Conventional Rural Bank,2015-12-24,2016-06-24,30.0,Fixed Interest Rates,183,0
+96a8ad0e-877a-4e18-8b75-454847296443,Financing Company,2017-12-23,2021-11-18,18.5,Fixed Interest Rates,1426,0
+96a8ad0e-877a-4e18-8b75-454847296443,Conventional Commercial Bank,2017-05-06,2018-05-06,3.19,Fixed Interest Rates,365,0
+a66069fb-c1d2-4a97-a37e-ef431376c7c3,Conventional Commercial Bank,2015-06-22,2022-02-21,7.0,Fixed Interest Rates,2436,4
+c6d89458-0050-4bdb-9889-93c406fdd9f2,Conventional Commercial Bank,2016-03-06,2020-03-06,3.14,Fixed Interest Rates,1461,0
+482fcc24-416e-460a-98b5-f2715ef198dd,Conventional Commercial Bank,2018-08-23,2019-08-23,6.0,Floating Interest Rates,365,0
+482fcc24-416e-460a-98b5-f2715ef198dd,Conventional Commercial Bank,2017-06-19,2018-06-19,3.19,Fixed Interest Rates,365,0
+482fcc24-416e-460a-98b5-f2715ef198dd,Conventional Commercial Bank,2016-10-23,2017-04-23,3.47,Fixed Interest Rates,182,0
+482fcc24-416e-460a-98b5-f2715ef198dd,Conventional Commercial Bank,2016-07-01,2016-12-31,3.47,Fixed Interest Rates,183,0
+482fcc24-416e-460a-98b5-f2715ef198dd,Conventional Commercial Bank,2015-12-07,2016-06-07,15.0,Fixed Interest Rates,183,0
+482fcc24-416e-460a-98b5-f2715ef198dd,Conventional Commercial Bank,2015-05-23,2015-11-23,4.04,Fixed Interest Rates,184,0
+0ccd476f-8e29-4aec-a106-5759f2943277,Financing Company,2018-04-26,2018-09-26,44.1,Fixed Interest Rates,153,7
+0ccd476f-8e29-4aec-a106-5759f2943277,Financing Company,2017-12-01,2019-12-01,42.71,Fixed Interest Rates,730,0
+0ccd476f-8e29-4aec-a106-5759f2943277,Conventional Rural Bank,2016-09-23,2019-09-23,19.2,Fixed Interest Rates,1095,70
+0ccd476f-8e29-4aec-a106-5759f2943277,Financing Company,2017-05-09,2019-05-09,43.94,Fixed Interest Rates,730,0
+0ccd476f-8e29-4aec-a106-5759f2943277,Conventional Commercial Bank,2015-01-11,2017-03-24,9.6,Fixed Interest Rates,803,8
+0ccd476f-8e29-4aec-a106-5759f2943277,Financing Company,2014-04-24,2017-03-24,25.71,Fixed Interest Rates,1065,8
+0ccd476f-8e29-4aec-a106-5759f2943277,Conventional Rural Bank,2016-07-24,2016-10-24,30.0,Fixed Interest Rates,92,0
+0ccd476f-8e29-4aec-a106-5759f2943277,Conventional Rural Bank,2016-01-25,2016-07-25,30.0,Fixed Interest Rates,182,68
+96de8f5b-1116-493b-80a8-0ff90c967124,Financing Company,2015-01-24,2017-07-02,38.0,Fixed Interest Rates,890,92
+626ad51f-72fb-4d0c-8c94-fea856427c9b,Conventional Commercial Bank,2014-02-16,2018-02-15,7.0,Floating Interest Rates,1460,0
+447bd025-2e61-4d2b-b63f-ad256ed31dd9,Conventional Commercial Bank,2017-08-22,2018-08-31,3.72,Fixed Interest Rates,374,395
+b1ae628a-3af7-4078-b855-d8f8c5d19baf,Conventional Commercial Bank,2017-09-22,2018-09-22,3.24,Fixed Interest Rates,365,41
+3a49fcef-d1f7-47b9-aa32-2745173c45bd,Conventional Commercial Bank,2017-11-30,2018-11-29,6.0,Floating Interest Rates,364,0
+3a49fcef-d1f7-47b9-aa32-2745173c45bd,Conventional Rural Bank,2018-02-11,2018-08-11,25.0,Fixed Interest Rates,181,0
+3a49fcef-d1f7-47b9-aa32-2745173c45bd,Conventional Commercial Bank,2015-01-19,2018-01-09,11.04,Fixed Interest Rates,1086,0
+3a49fcef-d1f7-47b9-aa32-2745173c45bd,Financing Company,2012-10-30,2015-10-06,0.0,Margin,1071,0
+3a49fcef-d1f7-47b9-aa32-2745173c45bd,Conventional Commercial Bank,2013-09-23,2015-10-06,9.75,Fixed Interest Rates,743,0
+3a49fcef-d1f7-47b9-aa32-2745173c45bd,Conventional Commercial Bank,2018-10-28,2019-10-27,11.5,Floating Interest Rates,364,0
+e31a9dcb-cddd-497e-bc88-a9a66c98c092,Conventional Commercial Bank,2017-12-18,2018-12-17,6.0,Floating Interest Rates,364,0
+b3fdbfae-06d3-42cc-8823-1fd34cdbe934,Conventional Commercial Bank,2018-08-28,2020-08-28,6.0,Floating Interest Rates,731,0
+6bef22c9-d2cd-4a8d-9f1f-b6280d985be4,Conventional Commercial Bank,2016-02-22,2018-11-22,13.0,Floating Interest Rates,1004,72
+6bef22c9-d2cd-4a8d-9f1f-b6280d985be4,Financing Company,2016-02-24,2018-11-22,18.74,Fixed Interest Rates,1002,72
+6bef22c9-d2cd-4a8d-9f1f-b6280d985be4,Conventional Commercial Bank,2016-02-22,2018-11-22,13.0,Fixed Interest Rates,1004,71
+1612f121-605f-4f35-a24e-ff737d0f6460,Conventional Commercial Bank,2006-10-28,2011-11-01,21.0,Floating Interest Rates,1830,0
+e31a9dcb-cddd-497e-bc88-a9a66c98c092,Conventional Commercial Bank,2017-01-30,2018-01-29,6.0,Fixed Interest Rates,364,0
+df797fa0-1a55-47c1-b50b-8a015ce72849,Conventional Commercial Bank,2015-04-05,2023-06-02,11.75,Fixed Interest Rates,2980,57
+df797fa0-1a55-47c1-b50b-8a015ce72849,Conventional Commercial Bank,2017-09-24,2022-09-24,13.0,Floating Interest Rates,1826,0
+df797fa0-1a55-47c1-b50b-8a015ce72849,Financing Company,2016-06-02,2023-06-02,21.02,Fixed Interest Rates,2556,57
+df797fa0-1a55-47c1-b50b-8a015ce72849,Financing Company,2014-10-31,2017-10-01,25.99,Fixed Interest Rates,1066,34
+df797fa0-1a55-47c1-b50b-8a015ce72849,Financing Company,2018-09-13,2019-09-13,43.96,Fixed Interest Rates,365,0
+df797fa0-1a55-47c1-b50b-8a015ce72849,Financing Company,2018-05-12,2018-09-12,39.78,Fixed Interest Rates,123,0
+df797fa0-1a55-47c1-b50b-8a015ce72849,Conventional Rural Bank,2018-03-17,2018-09-17,30.0,Fixed Interest Rates,184,15
+df797fa0-1a55-47c1-b50b-8a015ce72849,Conventional Rural Bank,2017-09-21,2018-03-21,30.0,Fixed Interest Rates,181,72
+df797fa0-1a55-47c1-b50b-8a015ce72849,Conventional Rural Bank,2017-03-17,2017-09-17,30.0,Fixed Interest Rates,184,76
+df797fa0-1a55-47c1-b50b-8a015ce72849,Conventional Commercial Bank,2016-06-12,2018-12-12,14.4,Fixed Interest Rates,913,0
+df797fa0-1a55-47c1-b50b-8a015ce72849,Financing Company,2017-04-25,2017-07-25,44.97,Fixed Interest Rates,91,8
+df797fa0-1a55-47c1-b50b-8a015ce72849,Conventional Rural Bank,2016-08-28,2017-02-28,30.0,Fixed Interest Rates,184,35
+df797fa0-1a55-47c1-b50b-8a015ce72849,Financing Company,2013-11-26,2016-10-26,23.15,Fixed Interest Rates,1065,38
+df797fa0-1a55-47c1-b50b-8a015ce72849,Conventional Rural Bank,2016-02-26,2016-08-26,30.0,Fixed Interest Rates,182,36
+df797fa0-1a55-47c1-b50b-8a015ce72849,Conventional Commercial Bank,2015-08-01,2016-08-01,14.4,Fixed Interest Rates,366,0
+df797fa0-1a55-47c1-b50b-8a015ce72849,Conventional Rural Bank,2015-08-20,2016-02-20,30.0,Fixed Interest Rates,184,12
+df797fa0-1a55-47c1-b50b-8a015ce72849,Conventional Rural Bank,2015-02-16,2015-08-16,30.0,Fixed Interest Rates,181,16
+df797fa0-1a55-47c1-b50b-8a015ce72849,Conventional Commercial Bank,2015-02-01,2015-08-01,14.4,Fixed Interest Rates,181,0
+df797fa0-1a55-47c1-b50b-8a015ce72849,Conventional Rural Bank,2018-09-23,2019-09-23,19.2,Fixed Interest Rates,365,0
+df797fa0-1a55-47c1-b50b-8a015ce72849,Financing Company,2018-10-08,2019-10-08,41.64,Fixed Interest Rates,365,0
+38e639f5-45a7-4ccd-b59b-5ce55138ce5d,Conventional Commercial Bank,2018-09-17,2021-09-17,3.13,Fixed Interest Rates,1096,0
+38e639f5-45a7-4ccd-b59b-5ce55138ce5d,Conventional Commercial Bank,2018-01-14,2019-01-14,6.0,Floating Interest Rates,365,0
+555fbd3e-9487-4173-9bbb-722af40de6b6,Financing Company,2016-04-29,2019-04-29,27.07,Fixed Interest Rates,1095,0
+555fbd3e-9487-4173-9bbb-722af40de6b6,Conventional Commercial Bank,2017-09-08,2019-09-08,21.5,Floating Interest Rates,730,0
+555fbd3e-9487-4173-9bbb-722af40de6b6,Conventional Rural Bank,2018-07-07,2019-01-07,26.0,Fixed Interest Rates,184,0
+555fbd3e-9487-4173-9bbb-722af40de6b6,Conventional Commercial Bank,2016-03-21,2018-03-21,14.4,Fixed Interest Rates,730,0
+555fbd3e-9487-4173-9bbb-722af40de6b6,Financing Company,2015-10-23,2016-10-23,39.66,Fixed Interest Rates,366,0
+555fbd3e-9487-4173-9bbb-722af40de6b6,Conventional Rural Bank,2015-05-24,2016-05-24,18.0,Fixed Interest Rates,366,39
+555fbd3e-9487-4173-9bbb-722af40de6b6,Conventional Commercial Bank,2014-02-28,2017-02-28,13.2,Fixed Interest Rates,1096,0
+555fbd3e-9487-4173-9bbb-722af40de6b6,Financing Company,2014-11-15,2015-11-15,39.78,Fixed Interest Rates,365,0
+95518a1a-b286-46bb-9398-5ea126ac1cd3,Conventional Commercial Bank,2018-06-07,2023-08-07,11.0,Floating Interest Rates,1887,0
+95518a1a-b286-46bb-9398-5ea126ac1cd3,Conventional Commercial Bank,2014-07-26,2023-07-26,13.0,Floating Interest Rates,3287,0
+a1585115-1e5a-4c76-8df8-6f8122d78558,Conventional Commercial Bank,2018-05-21,2018-11-21,10.8,Fixed Interest Rates,184,0
+a1585115-1e5a-4c76-8df8-6f8122d78558,Conventional Commercial Bank,2017-11-13,2018-05-13,12.0,Fixed Interest Rates,181,0
+a1585115-1e5a-4c76-8df8-6f8122d78558,Conventional Commercial Bank,2017-05-12,2017-11-12,12.0,Fixed Interest Rates,184,0
+a1585115-1e5a-4c76-8df8-6f8122d78558,Conventional Commercial Bank,2016-11-18,2017-05-18,12.0,Fixed Interest Rates,181,0
+a1585115-1e5a-4c76-8df8-6f8122d78558,Conventional Commercial Bank,2016-05-12,2016-11-12,12.0,Fixed Interest Rates,184,0
+a1585115-1e5a-4c76-8df8-6f8122d78558,Conventional Commercial Bank,2015-10-23,2016-04-23,12.0,Fixed Interest Rates,183,0
+dcfe02e6-f412-4ae0-b0eb-0e74b40550ec,Conventional Commercial Bank,2013-01-26,2017-01-01,2.0,Floating Interest Rates,1436,220
+dcfe02e6-f412-4ae0-b0eb-0e74b40550ec,Financing Company,2015-11-04,2016-10-04,85.95,Fixed Interest Rates,335,210
+dcfe02e6-f412-4ae0-b0eb-0e74b40550ec,Financing Company,2015-12-19,2016-12-19,57.65,Fixed Interest Rates,366,210
+dcfe02e6-f412-4ae0-b0eb-0e74b40550ec,Conventional Commercial Bank,2010-05-01,2016-05-01,24.0,Fixed Interest Rates,2192,210
+dcfe02e6-f412-4ae0-b0eb-0e74b40550ec,Conventional Commercial Bank,2009-10-01,2015-10-01,24.0,Fixed Interest Rates,2191,210
+dcfe02e6-f412-4ae0-b0eb-0e74b40550ec,Financing Company,2014-05-19,2015-04-15,41.22,Fixed Interest Rates,331,18
+dcfe02e6-f412-4ae0-b0eb-0e74b40550ec,Financing Company,2015-01-23,2016-01-21,45.53,Fixed Interest Rates,363,0
+e87f7045-a3e5-462e-9ea6-970b8d779557,Conventional Rural Bank,2016-05-16,2021-05-16,18.0,Fixed Interest Rates,1826,684
+e87f7045-a3e5-462e-9ea6-970b8d779557,Financing Company,2018-05-20,2019-05-20,41.94,Fixed Interest Rates,365,12
+e87f7045-a3e5-462e-9ea6-970b8d779557,Financing Company,2016-12-17,2019-11-17,20.66,Fixed Interest Rates,1065,0
+e87f7045-a3e5-462e-9ea6-970b8d779557,Conventional Rural Bank,2015-04-09,2018-04-09,15.0,Fixed Interest Rates,1096,174
+e87f7045-a3e5-462e-9ea6-970b8d779557,Conventional Rural Bank,2015-07-04,2018-07-04,15.0,Fixed Interest Rates,1096,117
+e87f7045-a3e5-462e-9ea6-970b8d779557,Conventional Rural Bank,2016-06-26,2017-12-26,22.0,Fixed Interest Rates,548,37
+e87f7045-a3e5-462e-9ea6-970b8d779557,Conventional Rural Bank,2015-12-18,2020-12-18,18.0,Fixed Interest Rates,1827,13
+e87f7045-a3e5-462e-9ea6-970b8d779557,Conventional Rural Bank,2014-12-19,2017-12-19,10.0,Fixed Interest Rates,1096,0
+d7a3b5e6-b6b3-495f-a416-d7b5f5dc0baa,Conventional Commercial Bank,2015-08-14,2017-11-13,7.0,Floating Interest Rates,822,0
+d7a3b5e6-b6b3-495f-a416-d7b5f5dc0baa,Conventional Rural Bank,2018-11-05,2019-07-05,36.0,Fixed Interest Rates,242,0
+09a94ba0-04d0-4ef0-9ad3-63d6ecdee31d,Conventional Commercial Bank,2017-11-21,2020-11-21,6.0,Floating Interest Rates,1096,0
+0c135f8b-05f6-4698-aa38-fcefb8a18e85,Conventional Commercial Bank,2017-11-17,2018-11-17,6.0,Floating Interest Rates,365,0
+96f36f2f-3ba6-4cd5-ab93-41dedf752813,Financing Company,2017-02-27,2019-11-27,30.58,Fixed Interest Rates,1003,0
+96f36f2f-3ba6-4cd5-ab93-41dedf752813,Conventional Commercial Bank,2016-02-18,2017-02-18,3.19,Fixed Interest Rates,366,0
+acaa97a6-8571-4d23-93e4-27d551d0c138,Conventional Commercial Bank,2012-06-18,2022-06-18,13.9,Floating Interest Rates,3652,0
+acaa97a6-8571-4d23-93e4-27d551d0c138,Financing Company,2013-08-26,2018-08-26,7.3,Fixed Interest Rates,1826,7
+e1830dc6-f7fb-4ced-92ac-0b7df7f61f0a,Conventional Commercial Bank,2018-04-23,2021-04-23,6.0,Floating Interest Rates,1096,0
+e1830dc6-f7fb-4ced-92ac-0b7df7f61f0a,Conventional Commercial Bank,2017-05-05,2020-05-05,22.0,Floating Interest Rates,1096,0
+aab2be3a-95df-4399-86b5-87eda28c5689,Conventional Commercial Bank,2016-07-10,2019-07-10,6.0,Floating Interest Rates,1095,0
+0c135f8b-05f6-4698-aa38-fcefb8a18e85,Conventional Commercial Bank,2018-10-05,2019-01-12,31.26,Fixed Interest Rates,99,0
+0c135f8b-05f6-4698-aa38-fcefb8a18e85,Financing Company,2018-10-05,2019-01-13,2.95,Fixed Interest Rates,100,0
+0c135f8b-05f6-4698-aa38-fcefb8a18e85,Conventional Commercial Bank,2018-07-30,2018-10-13,27.3,Fixed Interest Rates,75,0
+0c135f8b-05f6-4698-aa38-fcefb8a18e85,Financing Company,2018-08-11,2018-09-13,2.95,Fixed Interest Rates,33,0
+0c135f8b-05f6-4698-aa38-fcefb8a18e85,Conventional Commercial Bank,2018-08-11,2018-09-12,22.22,Fixed Interest Rates,32,0
+0c135f8b-05f6-4698-aa38-fcefb8a18e85,Conventional Commercial Bank,2016-12-13,2018-06-13,6.0,Floating Interest Rates,547,0
+982fbb75-a004-4a67-801a-411d29b4ec2a,Financing Company,2014-08-25,2015-11-25,39.67,Fixed Interest Rates,457,38
+982fbb75-a004-4a67-801a-411d29b4ec2a,Conventional Commercial Bank,2018-03-05,2020-03-05,25.5,Floating Interest Rates,731,0
+982fbb75-a004-4a67-801a-411d29b4ec2a,Conventional Commercial Bank,2016-02-13,2018-02-13,14.4,Fixed Interest Rates,731,20
+982fbb75-a004-4a67-801a-411d29b4ec2a,Conventional Commercial Bank,2016-02-13,2018-02-13,14.4,Fixed Interest Rates,731,0
+982fbb75-a004-4a67-801a-411d29b4ec2a,Conventional Commercial Bank,2014-02-08,2016-02-08,14.4,Fixed Interest Rates,730,24
+85092cce-eb79-430a-be29-645278f984b7,Financing Company,2017-09-28,2020-09-05,20.0,Fixed Interest Rates,1073,0
+85092cce-eb79-430a-be29-645278f984b7,Conventional Rural Bank,2018-07-16,2019-01-16,27.0,Fixed Interest Rates,184,0
+85092cce-eb79-430a-be29-645278f984b7,Conventional Commercial Bank,2013-07-19,2015-07-19,18.5,Fixed Interest Rates,730,105
+85092cce-eb79-430a-be29-645278f984b7,Financing Company,2017-05-12,2020-05-12,25.55,Fixed Interest Rates,1096,0
+85092cce-eb79-430a-be29-645278f984b7,Conventional Commercial Bank,2016-01-25,2020-03-26,11.04,Fixed Interest Rates,1522,0
+85092cce-eb79-430a-be29-645278f984b7,Conventional Commercial Bank,2018-06-23,2018-09-07,21.0,Fixed Interest Rates,76,0
+85092cce-eb79-430a-be29-645278f984b7,Financing Company,2018-06-23,2018-09-07,2.95,Fixed Interest Rates,76,0
+85092cce-eb79-430a-be29-645278f984b7,Financing Company,2018-05-05,2018-08-07,2.95,Fixed Interest Rates,94,0
+85092cce-eb79-430a-be29-645278f984b7,Financing Company,2018-04-21,2018-07-07,2.95,Fixed Interest Rates,77,0
+85092cce-eb79-430a-be29-645278f984b7,Financing Company,2018-04-21,2018-07-07,2.95,Fixed Interest Rates,77,0
+85092cce-eb79-430a-be29-645278f984b7,Financing Company,2018-04-24,2018-07-07,2.95,Fixed Interest Rates,74,0
+85092cce-eb79-430a-be29-645278f984b7,Financing Company,2018-04-20,2018-07-07,2.95,Fixed Interest Rates,78,0
+85092cce-eb79-430a-be29-645278f984b7,Conventional Commercial Bank,2017-10-23,2018-01-07,21.0,Fixed Interest Rates,76,0
+85092cce-eb79-430a-be29-645278f984b7,Financing Company,2017-09-13,2017-12-07,2.95,Fixed Interest Rates,85,0
+85092cce-eb79-430a-be29-645278f984b7,Financing Company,2017-09-01,2017-12-07,2.95,Fixed Interest Rates,97,0
+85092cce-eb79-430a-be29-645278f984b7,Financing Company,2017-08-24,2017-11-07,2.95,Fixed Interest Rates,75,0
+85092cce-eb79-430a-be29-645278f984b7,Financing Company,2017-08-26,2017-12-07,2.94,Fixed Interest Rates,103,0
+85092cce-eb79-430a-be29-645278f984b7,Financing Company,2017-09-23,2017-10-07,2.95,Fixed Interest Rates,14,0
+85092cce-eb79-430a-be29-645278f984b7,Financing Company,2014-02-01,2018-01-01,18.0,Fixed Interest Rates,1430,1
+85092cce-eb79-430a-be29-645278f984b7,Conventional Commercial Bank,2013-07-19,2015-07-19,18.5,Fixed Interest Rates,730,105
+85092cce-eb79-430a-be29-645278f984b7,Conventional Commercial Bank,2014-09-15,2017-09-15,13.2,Fixed Interest Rates,1096,0
+1d2c54b1-95b1-42be-95f4-d8cb167c635a,Conventional Commercial Bank,2017-08-13,2021-08-13,19.75,Floating Interest Rates,1461,0
+1d2c54b1-95b1-42be-95f4-d8cb167c635a,Financing Company,2015-09-01,2018-08-01,24.07,Fixed Interest Rates,1065,33
+1d2c54b1-95b1-42be-95f4-d8cb167c635a,Conventional Commercial Bank,2016-02-28,2019-03-30,12.6,Fixed Interest Rates,1126,0
+1d2c54b1-95b1-42be-95f4-d8cb167c635a,Conventional Commercial Bank,2015-08-24,2017-08-24,14.4,Fixed Interest Rates,731,0
+210efdb2-086c-48e7-8dfc-2ae444e29ab3,Conventional Commercial Bank,2018-05-25,2019-05-25,12.5,Floating Interest Rates,365,0
+9e7c069d-017a-457e-a95e-5924d9287d8b,Financing Company,2018-10-22,2022-10-22,9.2,Fixed Interest Rates,1461,0
+9e7c069d-017a-457e-a95e-5924d9287d8b,Conventional Commercial Bank,2018-06-10,2018-10-08,10.5,Fixed Interest Rates,120,0
+9e7c069d-017a-457e-a95e-5924d9287d8b,Conventional Commercial Bank,2018-02-12,2018-06-12,11.5,Fixed Interest Rates,120,0
+9e7c069d-017a-457e-a95e-5924d9287d8b,Financing Company,2016-12-27,2017-04-07,4.94,Fixed Interest Rates,101,25
+9e7c069d-017a-457e-a95e-5924d9287d8b,Financing Company,2017-02-20,2017-04-07,4.95,Fixed Interest Rates,46,25
+9e7c069d-017a-457e-a95e-5924d9287d8b,Financing Company,2016-11-24,2017-02-06,4.94,Fixed Interest Rates,74,0
+9e7c069d-017a-457e-a95e-5924d9287d8b,Financing Company,2016-11-05,2017-01-06,4.95,Fixed Interest Rates,62,0
+9e7c069d-017a-457e-a95e-5924d9287d8b,Financing Company,2016-10-06,2016-12-06,4.95,Fixed Interest Rates,61,0
+9e7c069d-017a-457e-a95e-5924d9287d8b,Financing Company,2016-07-22,2016-09-06,4.95,Fixed Interest Rates,46,0
+9e7c069d-017a-457e-a95e-5924d9287d8b,Financing Company,2016-07-04,2016-09-06,4.95,Fixed Interest Rates,64,0
+9e7c069d-017a-457e-a95e-5924d9287d8b,Financing Company,2016-05-18,2016-07-07,9.9,Fixed Interest Rates,50,0
