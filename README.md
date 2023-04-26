@@ -1,5 +1,7 @@
 # Loan-repayment-risk-predictor
-Loan repayment risk predictor is ML and DS based project which predicts the risk for lending loan to an user into 3 different categories: low risk , medium risk and high risk.
+Loan repayment risk predictor is ML and DS based project which predicts the risk for lending loan to an user. 
+
+Risk is categorized into 3 different categories: low risk , medium risk and high risk.
 
 Initially we have 2 different datasets , one contains the data regarding loan amount , quantity , volume etc and the other contains data regarding user's region , district etc.
 
